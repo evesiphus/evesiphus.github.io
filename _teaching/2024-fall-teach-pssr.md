@@ -4,7 +4,7 @@ collection: teaching
 type: "Master in Intelligent and Communicating Systems"
 permalink: /teaching/probability-statistics-signals-networks
 venue: "CY Cergy Paris University"
-date: 2024 -2025
+date: 2024
 location: "CY Cergy Paris University"
 ---
 
