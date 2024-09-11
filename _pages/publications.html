@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- 分离出未发表和提交中的文章 -->
+<!-- seperate-->
 {% assign unpublished = site.publications | where: 'status', 'under revision' | concat: site.publications | where: 'status', 'under submission' %}
 
-<!-- 如果有未发表文章，首先显示它们 -->
+<!-- unpublished -->
 {% if unpublished.size > 0 %}
   <h2>Under Submission / Under Revision</h2><hr />
   <ul>
@@ -20,7 +20,7 @@ author_profile: true
   </ul>
 {% endif %}
 
-<!-- 按年份分组显示已发表的文章，按年份倒序 -->
+<!-- published -->
 {% assign published = site.publications | where: 'status', null %}
 {% assign publications_by_year = published | group_by: 'year' | sort: 'name' | reverse %}
 
