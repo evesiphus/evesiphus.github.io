@@ -1,7 +1,7 @@
 ---
 title: "Stochastic geometry-based MCS adaption for uplink networks"
 collection: publications
-year: under preparation
+year: Under preparation
 authors: "X. Guo, Q. Liu, S. Wang, L. You"
 status: "under preparation"
 ---
