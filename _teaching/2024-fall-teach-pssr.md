@@ -3,8 +3,8 @@ title: "Probability and Statistics for Signals and Networks"
 collection: teaching
 type: "Master in Intelligent and Communicating Systems"
 permalink: /teaching/probability-statistics-signals-networks
-venue: "CYU, Department"
-date: 2024-2025
+venue: "CY Cergy Paris University"
+date: 2024 -2025
 location: "CY Cergy Paris University"
 ---
 
