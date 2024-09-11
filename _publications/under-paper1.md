@@ -3,7 +3,7 @@ title: "Sisyphus: Towards Automated LLC Allocation in High-speed Softwarized Net
 collection: publications
 year: 2025  
 authors: "Q. Liu, T. Zhang, L. Linguaglossa"
-journal: "To be submission"
+journal: "under preparation"
 ---
 
 
