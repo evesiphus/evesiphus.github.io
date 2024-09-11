@@ -1,9 +1,9 @@
 ---
 title: "Sisyphus: Towards Automated LLC Allocation in High-speed Softwarized Networks"
 collection: publications
-year: 2025  # 如果确定是2024年发表的话，可以填写正确的年份
+year: 2025  
 authors: "Q. Liu, T. Zhang, L. Linguaglossa"
-journal: "To be submitted to IEEE INFOCOM"
+journal: "To be submission"
 ---
 
 
