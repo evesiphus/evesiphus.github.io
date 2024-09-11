@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- Teaching experiences sorted by year and numbered -->
+{% assign teaching_by_year = site.teaching | sort: 'date' | reverse %}
+<ol style="font-size: smaller;">
+  {% for post in teaching_by_year %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date: "%Y" }}</a>
+    </li>
+  {% endfor %}
+</ol>
+
