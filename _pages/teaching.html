@@ -12,7 +12,7 @@ author_profile: true
 <ol style="font-size: normal;">
   {% for post in teaching_by_year %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date: "%Y" }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.academic_year }}</a>
     </li>
   {% endfor %}
 </ol>
