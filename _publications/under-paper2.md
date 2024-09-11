@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Virtual Network Functionality: Leveraging Explainable AI for Non-Invasive Performance Diagnosis and Bottleneck Identification"
 collection: publications
-year: 2024  
+year: 
 authors: "Q. Liu, T. Zhang,  L. Linguaglossa"
 journal: "under preparation"
 ---
