@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- under revision-->
+<!-- Separate out unpublished and under submission articles -->
 {% assign unpublished = site.publications | where: 'status', 'under revision' | concat: site.publications | where: 'status', 'under submission' %}
 
-<!-- if under revision, show them first-->
+<!-- If there are unpublished articles, display them first -->
 {% if unpublished.size > 0 %}
   <h2>Under Submission / Under Revision</h2><hr />
   {% for post in unpublished %}
@@ -18,8 +18,9 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-<!-- according to years-->
-{% assign publications_by_year = site.publications | where_exp: "item", "item.status != 'under revision' and item.status != 'under submission'" | group_by: 'year' | sort: 'name' | reverse %}
+<!-- Group published articles by year, in reverse chronological order -->
+{% assign published = site.publications | where: 'status', null %}
+{% assign publications_by_year = published | group_by: 'year' | sort: 'name' | reverse %}
 
 {% for year in publications_by_year %}
   <h2>{{ year.name }}</h2><hr />
