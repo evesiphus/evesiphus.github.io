@@ -12,7 +12,7 @@ title                    : "Qiong LIU"
 title_separator          : "-"
 name                     : &name "qiong LIU"
 description              : &description "Softwarized network, AI, stochastic geometry"
-url                      : https://evesiphus.github.io # the base hostname & protocol for your site e.g. "https://evesiphus.github.io"
+url                      : "https://evesiphus.github.io/" # the base hostname & protocol for your site e.g. "https://evesiphus.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evesiphus/evesiphus.github.io"
 
