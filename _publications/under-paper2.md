@@ -3,7 +3,7 @@ title: "Optimizing Virtual Network Functionality: Leveraging Explainable AI for 
 collection: publications
 year: 2024  
 authors: "Q. Liu, T. Zhang,  L. Linguaglossa"
-journal: " under preparation"
+journal: "under preparation"
 ---
 
 
