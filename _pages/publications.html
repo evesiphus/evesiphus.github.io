@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- 分离不同状态的未发表文章 -->
+<!-- seperate -->
 {% assign under_preparation = site.publications | where: 'status', 'under preparation' %}
 
 <!-- under preparation -->
@@ -24,7 +24,7 @@ author_profile: true
   </ul>
 {% endif %}
 
-<!-- 已发表和其他状态的文章按照年份分类显示 -->
+<!-- published -->
 {% assign other_publications = site.publications | where: 'status', null %}
 {% assign other_publications_by_year = other_publications | group_by: 'year' | sort: 'name' | reverse %}
 
