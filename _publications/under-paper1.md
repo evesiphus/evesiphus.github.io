@@ -1,7 +1,6 @@
 ---
 title: "Sisyphus: Towards Automated LLC Allocation in High-speed Softwarized Networks"
-collection: publications
-pre: Under preparation   
+collection: publications  
 authors: "Q. Liu, T. Zhang, L. Linguaglossa"
 status: "under preparation"
 ---
