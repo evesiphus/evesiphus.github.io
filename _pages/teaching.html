@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- Teaching experiences sorted by year and numbered -->
 {% assign teaching_by_year = site.teaching | sort: 'date' | reverse %}
-<ol style="font-size: smaller;">
+<ol style="font-size: normal;">
   {% for post in teaching_by_year %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date: "%Y" }}</a>
