@@ -1,9 +1,10 @@
 ---
-title: "Optimizing Virtual Network Functionality: Leveraging Explainable AI for Non-Invasive Performance Diagnosis and Bottleneck Identification"
+title: "Stochastic geometry-based MCS adaption for uplink networks"
 collection: publications
 year: 
-authors: "Q. Liu, T. Zhang,  L. Linguaglossa"
+authors: "X. Guo, Q. Liu, S. Wang, L. You"
 journal: "under preparation"
+state: "under preparation"
 ---
 
 
