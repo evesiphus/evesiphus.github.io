@@ -7,20 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- seperate unpublished paper -->
+<!-- 分离出未发表和提交中的文章 -->
 {% assign unpublished = site.publications | where: 'status', 'under revision' | concat: site.publications | where: 'status', 'under submission' %}
 
-<!-- if unpublish, show them first -->
+<!-- 如果有未发表文章，首先显示它们 -->
 {% if unpublished.size > 0 %}
   <h2>Under Submission / Under Revision</h2><hr />
   <ul>
   {% for post in unpublished %}
-    <li>{{ post.authors | replace: '**Q. Liu**', '<strong>Q. Liu</strong>' }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}. {% if post.highlight %} <em><span style="color:#8B0000;">{{ post.highlight }}</span></em>{% endif %}</li>
+    <li>{{ post.authors | replace: 'Q. Liu', '<strong>Q. Liu</strong>' }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}. {% if post.highlight %} <em><span style="color:#FF0000; font-weight:bold; font-size:smaller;">{{ post.highlight }}</span></em>{% endif %}</li>
   {% endfor %}
   </ul>
 {% endif %}
 
-<!-- according to years decendre -->
+<!-- 按年份分组显示已发表的文章，按年份倒序 -->
 {% assign published = site.publications | where: 'status', null %}
 {% assign publications_by_year = published | group_by: 'year' | sort: 'name' | reverse %}
 
@@ -28,7 +28,7 @@ author_profile: true
   <h2>{{ year.name }}</h2><hr />
   <ul>
   {% for post in year.items %}
-    <li>{{ post.authors | replace: '**Q. Liu**', '<strong>Q. Liu</strong>' }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}. {% if post.highlight %} <em><span style="color:#8B0000;">{{ post.highlight }}</span></em>{% endif %}</li>
+    <li>{{ post.authors | replace: 'Q. Liu', '<strong>Q. Liu</strong>' }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}. {% if post.highlight %} <em><span style="color:#FF0000; font-weight:bold; font-size:smaller;">{{ post.highlight }}</span></em>{% endif %}</li>
   {% endfor %}
   </ul>
 {% endfor %}
