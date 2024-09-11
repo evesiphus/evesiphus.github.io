@@ -1,7 +1,7 @@
 ---
 title: "Toward Noninvasive Performance Dissection for High-speed Software Data Plane"
 collection: publications
-year: 2024  
+year: 
 authors: "Q. Liu, L. Linguaglossa, T. Zhang"
 journal: "under preparation"
 ---
