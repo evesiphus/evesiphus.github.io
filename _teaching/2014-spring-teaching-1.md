@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 1"
+title: "Probability and Statistics for Signals and Networks"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master 1 in Intelligent and Communicating Systems"
+permalink: /teaching/probability-statistics-signals-networks
+venue: "CYU, Department"
+date: 2024-01-01
+location: "CY Cergy Paris University"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduces Master 1 students to key concepts in probability and statistics, focusing on applications in signals and networks. It combines theoretical foundations with practical skills using tools like Python and GNS3.
 
-Heading 1
-======
+### Prerequisites:
+- Linear Algebra: matrix multiplication, eigenvalue computation, vector normalization.
+- Basic integral calculus and series summation.
 
-Heading 2
-======
+### Course Content:
+- Discrete and continuous probability distributions.
+- Law simulations and experiment modeling.
+- Statistical parameters (mean, variance, skewness, kurtosis), estimators.
+- Conditional probabilities.
+- Probabilistic algorithms: Las Vegas, Monte Carlo, Markov Chains.
+- Hidden Markov Models, Viterbi algorithm.
+- Queueing theory and network simulation.
 
-Heading 3
-======
+### Skills Developed:
+- Mastering mathematical concepts for information theory, signal processing, and network modeling.
+- Practical numerical modeling of systems and networks using Python or GNS3.
+
