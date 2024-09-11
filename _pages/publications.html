@@ -7,25 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Separate out unpublished and under submission articles -->
-{% assign unpublished = site.publications | where: 'status', 'under revision' | concat: site.publications | where: 'status', 'under submission' %}
+<!-- unpublished -->
+{% assign unpublished = site.publications | where: 'status', 'under revision' | concat: site.publications | where: 'status', 'under preparation' %}
 
-<!-- If there are unpublished articles, display them first -->
+<!-- unpublished -->
 {% if unpublished.size > 0 %}
   <h2>Under Submission / Under Revision</h2><hr />
+  <ul>
   {% for post in unpublished %}
-    {% include archive-single.html %}
+    <li>{{ post.authors }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}.</li>
   {% endfor %}
+  </ul>
 {% endif %}
 
-<!-- Group published articles by year, in reverse chronological order -->
+<!-- according to year -->
 {% assign published = site.publications | where: 'status', null %}
 {% assign publications_by_year = published | group_by: 'year' | sort: 'name' | reverse %}
 
 {% for year in publications_by_year %}
   <h2>{{ year.name }}</h2><hr />
+  <ul>
   {% for post in year.items %}
-    {% include archive-single.html %}
+    <li>{{ post.authors }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}.</li>
   {% endfor %}
+  </ul>
 {% endfor %}
 
