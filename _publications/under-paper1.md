@@ -1,5 +1,5 @@
 ---
-title: "Sisyphus: Towards Automated LLC Allocation in High-speed Softwarized Networks"
+title: "Towards Automated LLC Allocation in High-speed Softwarized Networks based on DDQN"
 collection: publications  
 authors: "Q. Liu, T. Zhang, L. Linguaglossa"
 status: "under preparation"
