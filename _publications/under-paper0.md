@@ -4,7 +4,7 @@ collection: publications
 year: 
 authors: "X. Guo, Q. Liu, S. Wang, L. You"
 journal: "under preparation"
-state: "under preparation"
+status: "under preparation"
 ---
 
 
