@@ -10,19 +10,6 @@ author_profile: true
 <!-- seperate -->
 {% assign under_preparation = site.publications | where: 'status', 'under preparation' %}
 
-<!-- under preparation -->
-{% if under_preparation.size > 0 %}
-  <h2>Under Preparation</h2><hr />
-  <ul>
-  {% for post in under_preparation %}
-    <li>{{ post.authors | replace: 'Q. Liu', '<strong>Q. Liu</strong>' }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}. 
-    {% if post.highlight %}
-      <em><span style="color:#FF0000; font-weight:bold; font-size:smaller;">{{ post.highlight }}</span></em>
-    {% endif %}
-    </li>
-  {% endfor %}
-  </ul>
-{% endif %}
 
 <!-- year -->
 {% assign other_publications = site.publications | where: 'status', null %}
