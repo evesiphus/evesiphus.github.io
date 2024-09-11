@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "fr-FR"
-title                    : "Qiong LIU / Assistant Professor"
+title                    : "Qiong LIU"
 title_separator          : "-"
 name                     : &name "qiong LIU"
-description              : &description "Virtual network, AI, stochastic geometry"
+description              : &description "Softwarized network, AI, stochastic geometry"
 url                      : https://evesiphus.github.io # the base hostname & protocol for your site e.g. "https://evesiphus.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evesiphus/evesiphus.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qiong LIU"
-  pronouns         : "Dr"  
+# pronouns         : "Dr"  
   bio              : "Maître de Conférence (Assistant Professor) in Networking"
   location         : "Paris, France"
   employer         : "CY Cergy Paris University"
