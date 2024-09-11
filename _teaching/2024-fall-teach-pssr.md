@@ -5,7 +5,7 @@ type: "Master in Intelligent and Communicating Systems"
 permalink: /teaching/probability-statistics-signals-networks
 venue: "CY Cergy Paris University"
 date: 2024-09-01
-academic_year: "2024-2025"
+academic_year: "(2024-2025)"
 location: "CY Cergy Paris University"
 ---
 
