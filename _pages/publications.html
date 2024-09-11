@@ -8,14 +8,20 @@ author_profile: true
 {% include base_path %}
 
 <!-- seperate-->
-{% assign unpublished = site.publications | where: 'status', 'under revision' | concat: site.publications | where: 'status', 'under preparation' %}
+{% assign under_preparation = site.publications | where: 'status', 'under preparation' %}
+{% assign under_revision = site.publications | where: 'status', 'under revision' %}
+{% assign under_submission = site.publications | where: 'status', 'under submission' %}
 
 <!-- unpublished -->
-{% if unpublished.size > 0 %}
-  <h2>Under Submission / Under Preparation </h2><hr />
+{% if under_preparation.size > 0 %}
+  <h2>Under Preparation</h2><hr />
   <ul>
-  {% for post in unpublished %}
-    <li>{{ post.authors | replace: 'Q. Liu', '<strong>Q. Liu</strong>' }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}. {% if post.highlight %} <em><span style="color:#FF0000; font-weight:bold; font-size:smaller;">{{ post.highlight }}</span></em>{% endif %}</li>
+  {% for post in under_preparation %}
+    <li>{{ post.authors | replace: 'Q. Liu', '<strong>Q. Liu</strong>' }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}. 
+    {% if post.highlight %}
+      <em><span style="color:#FF0000; font-weight:bold; font-size:smaller;">{{ post.highlight }}</span></em>
+    {% endif %}
+    </li>
   {% endfor %}
   </ul>
 {% endif %}
