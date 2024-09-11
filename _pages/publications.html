@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 <!-- seperate-->
-{% assign unpublished = site.publications | where: 'status', 'under revision' | concat: site.publications | where: 'status', 'under submission' %}
+{% assign unpublished = site.publications | where: 'status', 'under revision' | concat: site.publications | where: 'status', 'under preparation' %}
 
 <!-- unpublished -->
 {% if unpublished.size > 0 %}
-  <h2>Under Submission / Under Revision</h2><hr />
+  <h2>Under Submission / Under Preparation </h2><hr />
   <ul>
   {% for post in unpublished %}
     <li>{{ post.authors | replace: 'Q. Liu', '<strong>Q. Liu</strong>' }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}. {% if post.highlight %} <em><span style="color:#FF0000; font-weight:bold; font-size:smaller;">{{ post.highlight }}</span></em>{% endif %}</li>
