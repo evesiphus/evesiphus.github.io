@@ -12,7 +12,7 @@ author_profile: true
 
 <!-- under preparation -->
 {% if under_preparation.size > 0 %}
-  <h2>Under Preparation</h2><hr />
+  <h2>pre.name</h2><hr />
   <ul>
   {% for post in under_preparation %}
     <li>{{ post.authors | replace: 'Q. Liu', '<strong>Q. Liu</strong>' }}. "{{ post.title }}," {{ post.journal }} {{ post.conference }} {{ post.year }}. 
