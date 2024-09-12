@@ -12,7 +12,7 @@ author_profile: true
 <!-- Master Program -->
 <h2 style="font-size: 1.5rem;font-weight: normal; margin-top: 2rem;">Master</h2>
 <ul style="margin-bottom: 1rem;">
-  {% assign master_courses = site.teaching | where: "program", "Master" | sort: 'date' | reverse %}
+  {% assign master_courses = site.teaching | where: "program", "Master"  | reverse %}
   {% for post in master_courses %}
     <li>
       {{ post.title }}: <a href="{{ post.url | relative_url }}">{{ post.academic_year }}</a>
@@ -23,7 +23,7 @@ author_profile: true
 <!-- Bachelor Program -->
 <h2 style="font-size: 1.5rem;font-weight: normal; margin-top: 2rem;">Bachelor</h2>
 <ul style="margin-bottom: 1rem;">
-  {% assign bachelor_courses = site.teaching | where: "program", "Bachelor" | sort: 'date' | reverse %}
+  {% assign bachelor_courses = site.teaching | where: "program", "Bachelor"  | reverse %}
   {% for post in bachelor_courses %}
     <li>
       {{ post.title }}: <a href="{{ post.url | relative_url }}">{{ post.academic_year }}</a>
