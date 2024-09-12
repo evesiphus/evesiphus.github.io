@@ -1,11 +1,22 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: "Applied AI/ML for High-Speed Software Networks"
+position: "PostDoc Researcher"
+location: "INFRES (Computer Sciences and Networks), Télécom Paris, Palaiseau, France"
+date: "2022.10 – Present"
+collaborators: 
+  - "Nokia Bell Labs"
+  - "Tsinghua University"
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+## Applied AI/ML for High-Speed Software Networks
+
+### Non-intrusive Network Measurement
+Instead of directly collecting packet- and flow-level features, we explore the low-level hardware features ubiquitously available in modern commodity hardware, such as the CPU cores, multi-level caches, memory subsystem, and PCIe buses, which have minimal impact on normal network operations.
+
+### Performance Diagnosis
+We develop predictive models to infer performance impairments and deduce the associated bottlenecks in high-speed NFV data plane.
+
+### Performance Optimization
+We implement a Deep Reinforcement Learning (DRL)-based framework to pinpoint resource contentions at runtime and automatically adjust the Last-level Cache allocation to optimize the end-to-end service performance, e.g., throughput, latency, and energy efficiency.
+
+**Collaborators**: [Nokia Bell Labs](https://www.bell-labs.com/about/locations/paris-saclay-france/), [Tsinghua University](https://www.bell-labs.com/about/locations/paris-saclay-france/)
