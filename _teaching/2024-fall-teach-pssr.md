@@ -4,6 +4,7 @@ collection: teaching
 type: I am responsible for this 40-hour lecture course under the Master program in Intelligent and Communicating Systems.
 permalink: /teaching/probability-statistics-signals-networks
 academic_year: "(2024-2025)"
+date: 2024
 program: Master
 ---
 
