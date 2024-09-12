@@ -3,10 +3,9 @@ title: "Probability and Statistics for Signals and Networks"
 collection: teaching
 type: "I am responsible for this course under the Master in Intelligent and Communicating Systems program, with a total of 40 teaching hours."
 permalink: /teaching/probability-statistics-signals-networks
-venue: "CY Cergy Paris University, Room A478"
+venue: "A478， CYU"
 date: 2024-09-01
 academic_year: "(2024-2025)"
-location: "A498, CYU"
 program: Master
 ---
 
