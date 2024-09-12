@@ -7,26 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Grouping teaching experiences by program type and year -->
-<h1>Master Program (Masteur)</h1>
-<!-- Master program teaching experiences -->
-{% assign master_courses = site.teaching | where: "program", "Master" | sort: 'date' | reverse %}
-<ol style="font-size: normal;">
-  {% for post in master_courses %}
-    <li>
-      <strong>{{ post.specialization }}</strong>: <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%Y" }}
-    </li>
-  {% endfor %}
-</ol>
+<!-- Teaching experiences formatted similarly to Publications page -->
 
-<h1>Bachelor Program (License) </h1>
-<!-- Bachelor program teaching experiences -->
-{% assign bachelor_courses = site.teaching | where: "program", "License" | sort: 'date' | reverse %}
-<ol style="font-size: normal;">
-  {% for post in bachelor_courses %}
-    <li>
-      <strong>{{ post.specialization }}</strong>: <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%Y" }}
-    </li>
-  {% endfor %}
-</ol>
+<h1>Teaching</h1><hr />
+
+<!-- Master Program -->
+<h2 style="font-size: 1.5rem; margin-top: 2rem;">Master Program (Masteur)</h2>
+<ul style="margin-bottom: 1.5rem;">
+  <li>Probability and Statistics for Signals and Networks - 2024</li>
+</ul>
+
+<!-- Bachelor Program -->
+<h2 style="font-size: 1.5rem; margin-top: 2rem;">Bachelor Program (License)</h2>
+<ul style="margin-bottom: 1.5rem;">
+  <li>Some Bachelor Course Title - 2023</li>
+</ul>
 
