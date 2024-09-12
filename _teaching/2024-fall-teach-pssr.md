@@ -1,7 +1,7 @@
 ---
 title: "Probability and Statistics for Signals and Networks"
 collection: teaching
-type: "I am responsible for this course under the Master program in Intelligent and Communicating Systems, with a total of 40 teaching hours."
+type: "I am responsible for this course under the Master program in Intelligent and Communicating Systems, with a total of 40 teaching hours lecture."
 permalink: /teaching/probability-statistics-signals-networks
 academic_year: "(2024-2025)"
 program: Master
