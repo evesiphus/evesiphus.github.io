@@ -1,11 +1,11 @@
 ---
 title: "Probability and Statistics for Signals and Networks"
 collection: teaching
-type: "I am responsible for this 40-hour lecture course under the Master program in Intelligent and Communicating Systems."
 permalink: /teaching/probability-statistics-signals-networks
 academic_year: "(2024-2025)"
 program: Master
 ---
+
 I am responsible for this 40-hour lecture course under the Master program in Intelligent and Communicating Systems.
 ### Course Content:
 - Discrete and continuous probability distributions.
