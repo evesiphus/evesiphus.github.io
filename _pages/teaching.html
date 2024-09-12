@@ -18,7 +18,7 @@ author_profile: true
     {% for course in sorted_courses %}
       {% if course.academic_year == year %}
         <li>
-          {{ course.title }}, <span style="font-size: smaller; color: gray;"> <i class="fas fa-map-marker-alt" style="margin-right: 0.3rem;"></i> Room {{ course.room }}, {{ course.location }}
+           <a href="{{ course.url }}" style="text-decoration: none;">{{ course.title }}</a>, <span style="font-size: smaller; color: gray;"> <i class="fas fa-map-marker-alt" style="margin-right: 0.3rem;"></i> Room {{ course.room }}, {{ course.location }}
       {% endif %}
     {% endfor %}
   </ul>
