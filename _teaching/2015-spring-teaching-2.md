@@ -5,7 +5,7 @@ type: "I am responsible for this 50-hour lecture course under the Master program
 permalink: /teaching/advanced-networks
 venue: "CYU, Room A462"
 academic_year: "(2024-2025)"
-date:2024-09-01
+date: 2024-09-01
 program: Master
 ---
 
