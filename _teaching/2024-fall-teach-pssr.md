@@ -5,6 +5,7 @@ type: "I am responsible for this course under the Master program in Intelligent 
 permalink: /teaching/probability-statistics-signals-networks
 academic_year: "(2024-2025)"
 program: Master
+date: 2024-09-01
 ---
 
 ### Course Content:
