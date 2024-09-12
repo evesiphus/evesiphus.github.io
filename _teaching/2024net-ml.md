@@ -16,7 +16,7 @@ location: Telecom Paris
 - Regression (continued) and Classification
 - Neural Networks
 - Trees and Ensembles
-- Unsupervised Learning**: Clustering and Anomaly Detection 
+- Unsupervised Learning: Clustering and Anomaly Detection 
 - Dimensionality Reduction for Anomaly Detection and Supervised Learning
 
 
