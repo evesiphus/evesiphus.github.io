@@ -7,6 +7,7 @@ venue: "CY Cergy Paris University"
 date: 2024-09-01
 academic_year: "(2024-2025)"
 location: "CY Cergy Paris University"
+program: Master
 ---
 
 ### Course Content:
