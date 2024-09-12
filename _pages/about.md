@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="margin-left: 10%; margin-right: 10%; text-align: justify;">
 I am an associate professor at  [CY Cergy Paris University](https://www.cyu.fr/)  and a mumber of  ETIS laboratory [ETIS (UMR8051)](https://www.etis-lab.fr/) since 2024.
 
 I'm always looking for highly motivated Ph.D., master, undergraduate students, interns interested in AI, networking, or  large-cellular networks for collaborating. Besides, experience of __stochastic geometry__ or __deep reinforcement learning__ is a strong plus. Feel free to send me an email with your CV if you are interested.
