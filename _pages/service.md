@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scholarly Review Activities and Seminar Talks</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h2 {
+            font-size: 1.8rem;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        ul {
+            margin-bottom: 20px;
+            list-style-type: disc;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Scholarly Review Activities Section -->
+    <section>
+        <h2>Scholarly Review Activities Selection</h2>
+        <ul>
+            <li>IEEE Communications Magazine, IEEE SmartGridComm (TCP), 2024</li>
+            <li>IEEE ICC 2024, IEEE CloudNet 2023, IEEE Globecom 2023</li>
+            <li>IEEE Transactions on Wireless Communication, 2022</li>
+            <li>ACM Transactions on Modeling and Performance Evaluation of Computing Systems, 2022</li>
+        </ul>
+    </section>
+
+    <!-- Seminar and Talks Section -->
+    <section>
+        <h2>Seminar and Talks</h2>
+        <ul>
+            <li>
+                "Virtualization & AI: how to monitor, diagnose and optimize NFV/SDN-enabled networks with AI technologies?", 
+                <a href="https://www.etis-lab.fr/ici/">Équipes Traitement de l'information et systèmes (ETIS)</a>, 
+                04/06/2024, CY Cergy Paris University, France.
+            </li>
+            <li>
+                "Coverage and Stability Analysis of Cellular Network with Temporal Traffic", 
+                <a href="https://www.lincs.fr/activities/seminars/">Laboratory for information, networking and communication sciences (LINCS)</a>, 
+                16/11/2022, Paris, France.
+            </li>
+        </ul>
+    </section>
+
+</body>
+</html>
+
