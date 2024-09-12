@@ -6,6 +6,8 @@ permalink: /teaching/probability-statistics-signals-networks
 academic_year: "(2024-2025)"
 date: 2024-09-01
 program: Master
+room: A478
+Location: CYU
 ---
 
 
