@@ -20,7 +20,7 @@ main:
     url: /year-archive/
     
   - title: "Services"
-    url: /cv/
+    url: /services/
     
   - title: "Talks"
     url: /talks/    
