@@ -15,5 +15,14 @@ redirect_from:
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  {% include archive-single.html %}
+
+  <!-- 只显示标题和更新时间 -->
+  <div class="post-item">
+    <h3>
+      <a href="{{ post.url }}" style="color: black; text-decoration: underline;">
+        {{ post.title }}
+      </a>
+    </h3>
+    <p><em>Mis à jour : {{ post.date | date: "%B %d, %Y" }}</em></p>
+  </div>
 {% endfor %}
