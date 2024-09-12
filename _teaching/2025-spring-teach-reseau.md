@@ -6,6 +6,8 @@ permalink: /teaching/advanced-networks
 academic_year: "(2024-2025)"
 program: Master
 date: 2024-09-01
+location: CYU
+room: A462
 ---
 
 ### Course Content:
