@@ -13,7 +13,9 @@ author_profile: true
 <!-- Master Program -->
 <h2 style="font-size: 1.5rem;font-weight: normal; margin-top: 2rem;">Master</h2>
 <ul style="margin-bottom: 1rem;">
-  <li>Probability and Statistics for Signals and Networks - 2024</li>
+  <li>
+      {{ post.specialization }}: <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%Y" }}
+    </li>
 </ul>
 
 <!-- Bachelor Program -->
