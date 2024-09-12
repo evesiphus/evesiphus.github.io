@@ -21,6 +21,8 @@ author_profile: true
 <!-- Bachelor Program -->
 <h2 style="font-size: 1.5rem;font-weight: normal; margin-top: 2rem;">Bachelor</h2>
 <ul style="margin-bottom: 1rem;">
-  <li>Some Bachelor Course Title - 2023</li>
+  <li>
+      {{ post.specialization }}: <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%Y" }}
+    </li>
 </ul>
 
