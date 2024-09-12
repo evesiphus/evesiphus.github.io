@@ -15,5 +15,13 @@ redirect_from:
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  {% include archive-single.html %}
+  
+  <!-- 显示标题，合作单位，年份，项目名称 -->
+  <ul>
+    <li><strong>Title:</strong> <a href="{{ post.url }}" style="color: black; text-decoration: underline; font-size: 100%;">{{ post.title }}</a></li>
+    <li><strong>Collaborators:</strong> {{ post.collaborators }}</li>
+    <li><strong>Year:</strong> {{ year }}</li>
+    <li><strong>Project:</strong> {{ post.project }}</li>
+  </ul>
+
 {% endfor %}
