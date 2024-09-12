@@ -1,20 +1,27 @@
 ---
-title: "Teaching experience 2"
+title: "Advanced Networks (Réseaux 2)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "I am responsible for this 50-hour lecture course under the Master program in Intelligent and Communicating Systems."
+permalink: /teaching/advanced-networks
+venue: "CYU, Room A462"
+academic_year: "(2024-2025)"
+date:2024-09-01
+program: Master
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### Course Content:
+This course covers advanced network tools and methods.
+- Advanced IP Networks:
+  - **Multicast:** Principles, protocols, and programming.
+  - **IPv6.**
+- Advanced Cryptography.
+- IT Security.
+- Security of networks, data, data exchanges, and infrastructures.
+  - Confidentiality, Availability, Integrity.
+- Network redundancy protocols and application-level redundancy protocols.
+  - Clustering concepts.
+  - Availability in terms of "number of nines."
+  - Single Point of Failure (SPOF) detection and mitigation.
+### Location:
+<span style="font-size: smaller;">Room A462, CYU.</span>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
