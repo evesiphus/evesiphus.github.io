@@ -5,17 +5,22 @@ permalink: /services/
 author_profile: true
 ---
 
+{% include base_path %}
 
-
-
+<!-- Scholarly Review Activities -->
 ## Scholarly Review Activities
-- IEEE Communications Magazine, IEEE SmartGridComm （TCP), 2024
-- IEEE ICC 2024, IEEE CloudNet 2023, IEEE Globecom 2023
-- IEEE Transactions on Wireless Communication, 2022
-- ACM Transactions on Modeling and Performance Evaluation of Computing Systems, 2022
+<ul>
+  <li>IEEE Communications Magazine, IEEE SmartGridComm (TCP), 2024</li>
+  <li>IEEE ICC 2024, IEEE CloudNet 2023, IEEE Globecom 2023</li>
+  <li>IEEE Transactions on Wireless Communication, 2022</li>
+  <li>ACM Transactions on Modeling and Performance Evaluation of Computing Systems, 2022</li>
+</ul>
 
+<!-- Seminar and Talks -->
 ## Seminar and Talks
-- "Virtualization & AI: how to monitor, diagnose and optimize NFV/SDN-enabled networks with AI technologies?", [Équipes Traitement de l'information et systèmes (ETIS)](https://www.etis-lab.fr/ici/), 04/06/2024, CY Cergy Paris University, France.
-- "Coverage and Stability Analysis of Cellular Network with Temporal Traffic", [Laboratory for information, networking and communication sciences (LINCS)](https://www.lincs.fr/activities/seminars/), 16/11/2022, Paris, France.
-
-
+<ul>
+  <li>"Virtualization & AI: how to monitor, diagnose and optimize NFV/SDN-enabled networks with AI technologies?", 
+  <a href="https://www.etis-lab.fr/ici/">Équipes Traitement de l'information et systèmes (ETIS)</a>, 04/06/2024, CY Cergy Paris University, France.</li>
+  <li>"Coverage and Stability Analysis of Cellular Network with Temporal Traffic", 
+  <a href="https://www.lincs.fr/activities/seminars/">Laboratory for information, networking and communication sciences (LINCS)</a>, 16/11/2022, Paris, France.</li>
+</ul>
