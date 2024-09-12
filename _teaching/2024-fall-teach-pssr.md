@@ -4,11 +4,9 @@ collection: teaching
 type: "I am responsible for this 40-hour lecture course under the Master program in Intelligent and Communicating Systems."
 permalink: /teaching/probability-statistics-signals-networks
 academic_year: "(2024-2025)"
-venue: "CYU"
 program: Master
-date: 2024-09-01
 ---
-
+I am responsible for this 40-hour lecture course under the Master program in Intelligent and Communicating Systems.
 ### Course Content:
 - Discrete and continuous probability distributions.
 - Law simulations and experiment modeling.
