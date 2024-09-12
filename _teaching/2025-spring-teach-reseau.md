@@ -5,7 +5,7 @@ type: "I am responsible for this 50-hour lecture course under the Master program
 permalink: /teaching/advanced-networks
 academic_year: "(2024-2025)"
 program: Master
-date: 2025
+date: 2024-09-01
 ---
 
 ### Course Content:
