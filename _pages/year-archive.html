@@ -16,10 +16,11 @@ redirect_from:
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
 
-  <!-- 只显示标题和更新时间 -->
+  <!-- 显示带序列号的标题和更新时间 -->
   <div class="post-item">
     <h3>
-      <a href="{{ post.url }}" style="color: black; text-decoration: underline;">
+      {{ forloop.index }}. 
+      <a href="{{ post.url }}" style="color: #00008B; text-decoration: underline;">
         {{ post.title }}
       </a>
     </h3>
