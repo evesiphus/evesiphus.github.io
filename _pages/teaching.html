@@ -15,7 +15,7 @@ author_profile: true
   {% assign master_courses = site.teaching | where: "program", "Master" | sort: 'date' | reverse %}
   {% for post in master_courses %}
     <li>
-      {{ forloop.index }}.{{ post.title }}: <a href="{{ post.url | relative_url }}">{{ post.academic_year }}</a>
+      {{ post.title }}: <a href="{{ post.url | relative_url }}">{{ post.academic_year }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -26,7 +26,7 @@ author_profile: true
   {% assign bachelor_courses = site.teaching | where: "program", "Bachelor" | sort: 'date' | reverse %}
   {% for post in bachelor_courses %}
     <li>
-      {{ forloop.index }}.{{ post.title }}: <a href="{{ post.url | relative_url }}">{{ post.academic_year }}</a>
+      {{ post.title }}: <a href="{{ post.url | relative_url }}">{{ post.academic_year }}</a>
     </li>
   {% endfor %}
 </ul>
