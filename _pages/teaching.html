@@ -7,26 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Teaching experiences formatted similarly to Publications page -->
+<!-- Teaching experiences sorted by academic year -->
+{% assign sorted_courses = site.teaching | sort: 'academic_year' | reverse %}
 
-<!-- Master Program -->
-<h2 style="font-size: 1.5rem;font-weight: normal; margin-top: 2rem;">Master</h2>
-<ul style="margin-bottom: 1rem;">
-  {% assign master_courses = site.teaching | where: "program", "Master"  | reverse %}
-  {% for post in master_courses %}
-    <li>
-      {{ post.title }}: <a href="{{ post.url | relative_url }}">{{ post.academic_year }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<!-- Bachelor Program -->
-<h2 style="font-size: 1.5rem;font-weight: normal; margin-top: 2rem;">Bachelor</h2>
-<ul style="margin-bottom: 1rem;">
-  {% assign bachelor_courses = site.teaching | where: "program", "Bachelor"  | reverse %}
-  {% for post in bachelor_courses %}
-    <li>
-      {{ post.title }}: <a href="{{ post.url | relative_url }}">{{ post.academic_year }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% assign years = sorted_courses | map: 'academic_year' | uniq %}
+{% for year in years %}
+  <h2 style="font-size: 1.5rem;font-weight: normal; margin-top: 2rem;">{{ year }}</h2>
+  <ul style="margin-bottom: 1rem;">
+    {% for course in sorted_courses %}
+      {% if course.academic_year == year %}
+        <li>
+          {{ course.title }}: <a href="{{ course.url | relative_url }}">{{ course.program }} Program</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
