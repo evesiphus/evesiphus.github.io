@@ -17,9 +17,7 @@ author_profile: true
     {% for course in sorted_courses %}
       {% if course.academic_year == year %}
         <li>
-          {{ course.title }} - <span style="color: gray;">{{ course.program }} Program</span>
-          <br>
-          <span style="font-size: smaller; color: gray;">### Location: Room {{ course.room }}, {{ course.institution }}</span>
+          {{ course.title }}, <span style="font-size: smaller; color: gray;"> Location: Room {{ course.room }}, {{ course.institution }}</span>
         </li>
       {% endif %}
     {% endfor %}
