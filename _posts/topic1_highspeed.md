@@ -1,4 +1,8 @@
 ---
+layout: archive
+title: "Research activities 2022/10-now"
+permalink: /research/postdoc/
+author_profile: true
 title: "Applied AI/ML for High-Speed Software Networks"
 position: "PostDoc Researcher"
 location: "INFRES (Computer Sciences and Networks), Télécom Paris, Palaiseau, France"
@@ -7,7 +11,7 @@ collaborators:
   - "Nokia Bell Labs"
   - "Tsinghua University"
 ---
-
+---
 ## Applied AI/ML for High-Speed Software Networks
 
 ### Non-intrusive Network Measurement
