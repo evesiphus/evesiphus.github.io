@@ -7,12 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Teaching experiences sorted by year and numbered -->
-{% assign teaching_by_year = site.teaching | sort: 'date' | reverse %}
+<!-- Grouping teaching experiences by program type and year -->
+<h1>Master Program (Masteur)</h1>
+<!-- Master program teaching experiences -->
+{% assign master_courses = site.teaching | where: "program", "Master" | sort: 'date' | reverse %}
 <ol style="font-size: normal;">
-  {% for post in teaching_by_year %}
+  {% for post in master_courses %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.academic_year }}</a>
+      <strong>{{ post.specialization }}</strong>: <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%Y" }}
+    </li>
+  {% endfor %}
+</ol>
+
+<h1>Bachelor Program (License) </h1>
+<!-- Bachelor program teaching experiences -->
+{% assign bachelor_courses = site.teaching | where: "program", "License" | sort: 'date' | reverse %}
+<ol style="font-size: normal;">
+  {% for post in bachelor_courses %}
+    <li>
+      <strong>{{ post.specialization }}</strong>: <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%Y" }}
     </li>
   {% endfor %}
 </ol>
