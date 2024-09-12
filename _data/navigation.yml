@@ -15,12 +15,13 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
+  - title: "Services"
+    url: /services/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Services"
-    url: /services/
+  
     
   - title: "Talks"
     url: /talks/    
