@@ -6,7 +6,7 @@ permalink: /teaching/wireless-networks-access-protocols
 academic_year: "2024-2025"
 date: 2024-09-01
 program: Ingénieur 3
-room:N/A
+room: N/A
 location: CYU-tech
 hours: "64h (CM+TP)"
 ---
