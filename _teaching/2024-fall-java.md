@@ -7,11 +7,15 @@ academic_year: "2024-2025"
 date: 2024-09-01
 program: Ingénieur 3
 room: N/A
-location: CYU-tech
+location: CYU-tech, saint-germain
 hours: "64h (CM+TP)"
 ---
-
 
 ### Location:
 <span style="font-size: smaller;">CYU-tech.</span>
 
+### Course Materials:
+- [Lecture 1: Introduction to Object-Oriented Programming](.../assets/teaching/java/CM1-Java.pdf)
+
+
+<sup>*</sup> If you use these slides, please cite them accordingly.
