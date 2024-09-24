@@ -2,7 +2,7 @@
 title: "[Java] Object oriented programming"
 collection: teaching
 type: I am responsible for this 64-hour lecture course under third-year engineering students at CYU-tech.
-permalink: /teaching/wireless-networks-access-protocols
+permalink: /teaching/2024-fall-java
 academic_year: "2024-2025"
 date: 2024-09-01
 program: Ingénieur 3
