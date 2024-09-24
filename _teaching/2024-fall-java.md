@@ -15,8 +15,11 @@ hours: "64h (CM+TP)"
 <span style="font-size: smaller;">CYU-tech.</span>
 
 ### Course Materials:
-- Lecture 1: Introduction to Object-Oriented Programming, [[slides]](https://evesiphus.github.io/assets/teaching/java/CM1-Java.pdf)
+- CM 1: Introduction to Object-Oriented Programming, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_lecture1.pdf)
+- TP 1: Introduction to Object-Oriented Programming, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_TP1.pdf)
+
+### TP Materials:
+- TP 1 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_TP1.pdf)
 
 
-
-<sup>*</sup> If you use these slides, please cite them accordingly.
+<sup>*</sup> If you use these slides, please cite them accordingly. I would like to thank my friend Shanshan Wang's great support. ;-)
