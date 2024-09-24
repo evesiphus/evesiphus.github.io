@@ -6,7 +6,7 @@ permalink: /teaching/2024-accessscheduling/
 academic_year: "2023-2024"
 date: 2023-09-01
 program: Ingénieur 3
-room: B126
+room: N/A
 location: Telecom Paris
 hours: "10.5h (CM+TP)"
 ---
