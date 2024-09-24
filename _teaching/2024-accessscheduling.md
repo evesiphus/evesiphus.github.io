@@ -2,7 +2,7 @@
 title: "Wireless Networks Access Protocols"
 collection: teaching
 type: I am responsible for this 24-hour lecture course under third-year engineering students at Telecom Paris, coordinated by Prof. Marceau Coupechoux.
-permalink: /teaching/2024-accessscheduling
+permalink: /teaching/2024-accessscheduling/
 academic_year: "2023-2024"
 date: 2023-09-01
 program: Ingénieur 3
