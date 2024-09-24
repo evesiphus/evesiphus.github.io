@@ -16,10 +16,10 @@ hours: "64h (CM+TP)"
 
 ### Course Materials:
 - CM 1: Introduction to Object-Oriented Programming, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_lecture1.pdf)
-- TP 1: Introduction to Object-Oriented Programming, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_TP1.pdf)
+
 
 ### TP Materials:
 - TP 1 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_TP1.pdf)
 
 
-<sup>*</sup> If you use these slides, please cite them accordingly. I would like to thank my friend Shanshan Wang's great support. ;-)
+<sup>-</sup> If you use these slides for other purposes, please quote them accordingly. I would like to thank my friend Shanshan Wang for her great support. ;-)
