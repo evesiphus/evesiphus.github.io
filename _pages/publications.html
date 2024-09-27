@@ -23,6 +23,9 @@ author_profile: true
     {% if post.highlight %}
       <em><span style="color:#FF0000; font-weight:bold; font-size:smaller;">{{ post.highlight }}</span></em>
     {% endif %}
+    {% if post.pdf %}
+      [<a href="{{ post.pdf }}" target="_blank">pdf</a>]
+    {% endif %} 
     </li>
   {% endfor %}
   </ul>
