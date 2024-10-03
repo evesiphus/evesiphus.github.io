@@ -21,6 +21,7 @@ hours: "64h (CM+TP)"
 
 ### TP Materials:
 - TP 1 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_TP1.pdf)
+- TP 2 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_Lab2.pdf)
 
 
 <sup>-</sup> If you use these slides for other purposes, please quote them accordingly. I would like to thank my friend Shanshan Wang for her great support. ;-)
