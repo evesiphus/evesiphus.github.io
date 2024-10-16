@@ -17,7 +17,7 @@ hours: "64h (CM+TP)"
 ### Course Materials:
 - CM 1: Introduction to Object-Oriented Programming, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_lecture1.pdf)
 - CM 2: Java syntax, operators and controlling execution, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_cm2.pdf)
-
+- CM 3: Arrays, implementation of Class and Objets,  [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_cm3.pdf)
 
 ### TP Materials:
 - TP 1 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_TP1.pdf)
