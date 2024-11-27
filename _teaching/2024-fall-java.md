@@ -24,5 +24,6 @@ hours: "64h (CM+TP)"
 ### TP Materials:
 - TP 1 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_TP1.pdf)
 - TP 2 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_Lab2.pdf)
+- TP 4 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_tp4.pdf)
 
 
