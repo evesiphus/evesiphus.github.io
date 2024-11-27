@@ -19,6 +19,7 @@ hours: "64h (CM+TP)"
 - CM 2: Java syntax, operators and controlling execution, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_cm2.pdf)
 - CM 3: Arrays, implementation of Class and Objets,  [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_cm3.pdf)
 - CM 4: Inheritance, Polymorphism, Interfaces, Packages, Exception handling  [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_cm4.pdf)
+- CM 5: JAVA I/O, external database  [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_cm5.pdf)
 
 ### TP Materials:
 - TP 1 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_TP1.pdf)
