@@ -28,7 +28,6 @@ hours: "64h (CM+TP)"
 - TP 4 [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_tp4.pdf)
 
 ### Final Projects:
-you have two options:
 - Option 1: Post Office [[pdf]](https://evesiphus.github.io/assets/teaching/java/Java_project_1.pdf)
 - Option 2: Facial recognition-based attendance systems [[pdf]](https://evesiphus.github.io/assets/teaching/java/Java_project_2.pdf)
 
