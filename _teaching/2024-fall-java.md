@@ -30,6 +30,7 @@ hours: "64h (CM+TP)"
 
 ### Final Projects:
 - Option 1: Post Office [[pdf]](https://evesiphus.github.io/assets/teaching/java/Java_project_1.pdf)
-- Option 2: Facial recognition-based attendance systems [[pdf]]()
+- Option 2: Facial recognition-based attendance systems [[pdf]](https://evesiphus.github.io/assets/teaching/java/Java_project_2.pdf)
+- Requirements [[pdf]](https://evesiphus.github.io/assets/teaching/java/requirement.pdf)
 
 
