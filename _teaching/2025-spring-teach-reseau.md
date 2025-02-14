@@ -14,8 +14,9 @@ room: A462
 This course covers advanced network tools and methods.
 - Advanced IP Networks:
   - Multicast: Principles, protocols, and programming.
-  - IPv6.
-- Advanced Cryptography.
+  - IPv6
+  - WIFI
+  - Advanced Cryptography
 - IT Security.
 - Security of networks, data, data exchanges, and infrastructures.
   - Confidentiality, Availability, Integrity.
@@ -25,5 +26,5 @@ This course covers advanced network tools and methods.
   - Single Point of Failure (SPOF) detection and mitigation.
   - 
 ### Location:
-<span style="font-size: smaller;">Room A462, CYU.</span>
+<span style="font-size: smaller;"> CYU.</span>
 
