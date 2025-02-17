@@ -20,7 +20,7 @@ This course covers advanced network tools and methods.
 - IT Security.
 - Security of networks, data, data exchanges, and infrastructures.
   - Confidentiality, Availability, Integrity.
--  <span style="color:blue;">Network redundancy protocols and application-level redundancy protocols</span>.
+- Network redundancy protocols and application-level redundancy protocols.
   - Clustering concepts.
   - Availability in terms of "number of nines."
   - Single Point of Failure (SPOF) detection and mitigation.
