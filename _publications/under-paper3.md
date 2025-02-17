@@ -4,4 +4,5 @@ collection: publications
 year: "Under revision"
 authors: "Q. Liu, T. Zhang, et al"
 status: "under revision"
+journal: IEEE/ACM Transactions on Networking
 ---
