@@ -14,6 +14,9 @@ location: CYU
   - CM1: Multicast - Principles, protocols, and programming, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_lecture1.pdf)
   - CM2: IPv6, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_lecture1.pdf)
   - CM3: WIFI, [[slides]](https://evesiphus.github.io/assets/teaching/java/Java_lecture1.pdf)
+- Part II: AI and Networks
+  - CM1:
+     
 - IT Security.
 - Security of networks, data, data exchanges, and infrastructures.
   - Confidentiality, Availability, Integrity.
