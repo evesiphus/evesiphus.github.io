@@ -1,7 +1,7 @@
 ---
 title: "Towards Automated LLC Allocation in High-speed Softwarized Networks based on DDQN"
 collection: publications  
-authors: "Q. Liu, T. Zhang, L. Linguaglossa"
+authors: "Q. Liu, T. Zhang"
 status: "under preparation"
 year: Under preparation
 ---
