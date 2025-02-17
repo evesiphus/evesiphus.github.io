@@ -1,13 +1,12 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Mentoring"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Mentoring
 
 ### (Co-)mentoring of M1 and M2 interns:
 
