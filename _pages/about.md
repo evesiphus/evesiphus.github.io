@@ -21,11 +21,10 @@ I obtained my M.Sc. of Telecommunication from [Xidian University](https://www.xi
 
 Research Interests
 ======
-1. Applied AI/ML for high-speed software networks 
-1. Resource allocation & optimization, NF deployment & traffic scheduling
-1. Cloud & edge computing
-1. Stochastic geometry & reinforcement learning-based methodologies 
- 
+1. Applied AI for virtualized network systems
+2. esource allocation, network function deployment & traffic scheduling
+3. MLOps in high-speed softwarized networks
+4. Stochastic geometry and system-level modeling of wireless networks
 
 
 
