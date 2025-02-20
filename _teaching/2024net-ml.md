@@ -10,22 +10,5 @@ room: N/A
 location: Telecom Paris
 ---
 
-### Lectures:
-- Introduction: 
-- Regression
-- Regression (continued) and Classification
-- Neural Networks
-- Trees and Ensembles
-- Unsupervised Learning: Clustering and Anomaly Detection 
-- Dimensionality Reduction for Anomaly Detection and Supervised Learning
-
-
-### External Expert Lectures:
-- Dimensionality Reduction and Network Anomalies
-- Machine Data Analysis with Elastic Stack
-- Predictive Maintenance
-- Machine Learning for High-Speed Networks
-- Collecting and Processing Network Data
-- Intrusion Detection from Network Traces
 
 
