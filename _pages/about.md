@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor (Enseignante-chercheurse)  within the Information, Communications and Imaging (ICI) group of [ETIS](https://www.etis-lab.fr/) (UMR8051 – a joint research laboratory between CY Cergy Paris University, ENSEA and CNRS) since September 2024.
+I am an assistant professor (Enseignante-chercheurse)  within the Information, Communications and Imaging (ICI) group of [ETIS](https://www.etis-lab.fr/) (UMR8051 – a joint research laboratory between [CY Cergy Paris University]((https://www.cyu.fr/)), ENSEA and CNRS) since September 2024.
 
 Bio
 ======
