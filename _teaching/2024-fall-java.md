@@ -1,5 +1,5 @@
 ---
-title: "[Java] Object oriented programming"
+title: "Développement Distribué Java"
 collection: teaching
 type: I am responsible for this 64-hour lecture course under third-year engineering students at CYU-tech.
 permalink: /teaching/2024-fall-java
