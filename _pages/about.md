@@ -9,7 +9,7 @@ redirect_from:
 <div style="font-size: smaller; text-align: justify;">
 <br><br>  
 Since September 2024, I have been an assistant professor (Enseignante-chercheurse)  within the ICI group of [ETIS](https://www.etis-lab.fr/) (UMR8051), a joint research lab among CYU, ENSEA and CNRS. I am also responsible for teaching in the master's program "Intelligence and Security" at [CY Cergy Paris University](https://www.cyu.fr/) and the engineering program "Math-Info/Design" at [CY Ecole de Design](https://www.cy-ecolededesign.fr/).
-
+<br><br>  
 Bio
 ======
 Before joining [CYU](https://www.cyu.fr/), I worked as a PostDoc at [Lincs Lab](https://www.lincs.fr/) under Prof. Leonardo Linguaglossa, co-affiliated with the Department of Network and Computer Science (INFRES) at [Telecom Paris](https://www.telecom-paris.fr/en/school/departments/computer-science-networks), [the Institute Polytechnique de Paris](https://www.ip-paris.fr/en), from 2022 to 2024. During this time, I also collaborated with the Nokia Bell Lab Research center, guided by senior researcher Dr. Tianzhu Zhang.
@@ -19,7 +19,7 @@ Prior to that,  I received my Ph.D in 06/2022 at IETR, CNRS 6164 group of [INSA 
 
 I obtained my M.Sc. of Telecommunication from [Xidian University](https://www.xidian.edu.cn/), China and my B.Sc. of Electronic Information Science and Technology from [Shandong University](https://www.en.sdu.edu.cn/), China.
 
-
+<br><br>  
 Research Interests
 ======
 1. Applied AI for virtualized network systems
