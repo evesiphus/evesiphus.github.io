@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor (Enseignante-chercheurse)  within the Information, Communications and Imaging (ICI) group of [ETIS](https://www.etis-lab.fr/) (UMR8051 – a joint research laboratory between [CY Cergy Paris University]((https://www.cyu.fr/)), ENSEA and CNRS) since September 2024.
+Since September 2024, I have been an assistant professor (Enseignante-chercheurse)  within the Information, Communications and Imaging (ICI) group of [ETIS](https://www.etis-lab.fr/) (UMR8051), a joint research lab among [CY Cergy Paris University]((https://www.cyu.fr/)), ENSEA and CNRS. I am also responsible for teaching in the master's program "Intelligence and Security" at CYU and the engineering program "Math-Info/Design" at CY Ecole de Design.
 
 Bio
 ======
-Before joining [CYU](https://www.cyu.fr/), I served as a PostDoc at [Lincs Lab](https://www.lincs.fr/), working with Prof. Leonardo Linguaglossa, while being co-affiliated with the Department of Network and Computer Science (INFRES) at [Telecom Paris](https://www.telecom-paris.fr/en/school/departments/computer-science-networks), at [the Institute Polytechnique de Paris](https://www.ip-paris.fr/en), from 2022 to 2024. During this period, I collaborated with the Nokia Bell Lab Research center, particularly with the guidance of senior researcher Dr. Tianzhu Zhang.
+Before joining [CYU](https://www.cyu.fr/), I worked as a PostDoc at [Lincs Lab](https://www.lincs.fr/) under Prof. Leonardo Linguaglossa, co-affiliated with the Department of Network and Computer Science (INFRES) at [Telecom Paris](https://www.telecom-paris.fr/en/school/departments/computer-science-networks), [the Institute Polytechnique de Paris](https://www.ip-paris.fr/en), from 2022 to 2024. During this time, I also collaborated with the Nokia Bell Lab Research center, guided by senior researcher Dr. Tianzhu Zhang.
 
 
 Prior to that,  I received my Ph.D in 06/2022 at IETR, CNRS 6164 group of [INSA Rennes](https://www.insa-rennes.fr/ietr-1.html) under the supervision of [Prof. Philippe Mary](https://pmary.perso.insa-rennes.fr/) and [Prof. Jean-Yves Baudais](http://jeanyves.baudais.free.fr/). 
