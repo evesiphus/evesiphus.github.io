@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="font-size: smaller; text-align: justify;">
+  
 Since September 2024, I have been an assistant professor (Enseignante-chercheurse)  within the ICI group of [ETIS](https://www.etis-lab.fr/) (UMR8051), a joint research lab among CYU, ENSEA and CNRS. I am also responsible for teaching in the master's program "Intelligence and Security" at [CY Cergy Paris University](https://www.cyu.fr/) and the engineering program "Math-Info/Design" at [CY Ecole de Design](https://www.cy-ecolededesign.fr/).
 
 Bio
