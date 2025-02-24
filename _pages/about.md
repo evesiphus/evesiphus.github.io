@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <div class="about-page">
-<br><br>  
+<br>
 Since September 2024, I have been an assistant professor (Enseignante-chercheurse)  within the ICI group of [ETIS](https://www.etis-lab.fr/) (UMR8051), a joint research lab among CYU, ENSEA and CNRS. I am also responsible for teaching in the master's program "Intelligence and Security" at [CY Cergy Paris University](https://www.cyu.fr/) and the engineering program "Math-Info/Design" at [CY Ecole de Design](https://www.cy-ecolededesign.fr/).
-<br><br>  
+<br> 
 
 Bio
 ======
@@ -21,7 +21,7 @@ Prior to that,  I received my Ph.D in 06/2022 at IETR, CNRS 6164 group of [INSA 
 
 I obtained my M.Sc. of Telecommunication from [Xidian University](https://www.xidian.edu.cn/), China and my B.Sc. of Electronic Information Science and Technology from [Shandong University](https://www.en.sdu.edu.cn/), China.
 
-<br><br>  
+<br> 
 
 Research Interests
 ======
