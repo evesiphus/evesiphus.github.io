@@ -19,7 +19,7 @@ Before joining [CYU](https://www.cyu.fr/), I worked as a PostDoc at [Lincs Lab](
 
 Prior to that,  I received my Ph.D in 06/2022 at IETR, CNRS 6164 group of [INSA Rennes](https://www.insa-rennes.fr/ietr-1.html) under the supervision of [Prof. Philippe Mary](https://pmary.perso.insa-rennes.fr/) and [Prof. Jean-Yves Baudais](http://jeanyves.baudais.free.fr/). 
 
-I obtained my M.Sc. of Telecommunication from [Xidian University](https://www.xidian.edu.cn/), China and my B.Sc. of Electronic Information Science and Technology from [Shandong University](https://www.en.sdu.edu.cn/), China.
+I obtained my Master of Science (M.Sc.) in Telecommunication from [Xidian University](https://www.xidian.edu.cn/), China and my Bachelor of Science (B.Sc.) in Electronic Information Science and Technology from [Shandong University](https://www.en.sdu.edu.cn/), China.
 
 <br> 
 
