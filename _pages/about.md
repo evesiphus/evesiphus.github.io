@@ -11,6 +11,11 @@ redirect_from:
 <br>
 Since September 2024, I have been an assistant professor (Enseignante-chercheurse)  within the ICI group of [ETIS](https://www.etis-lab.fr/) (UMR8051), a joint research lab among CYU, ENSEA and CNRS. I am also responsible for teaching in the master's program "Informatique et systèmes complexes" at [CY Cergy Paris University](https://www.cyu.fr/) and the engineering program "Math-Info/Design" at [CY Ecole de Design](https://www.cy-ecolededesign.fr/).
 <br> 
+<br> 
+<p style="color: red; font-style: italic; font-size: smaller;">
+    The lab email address (ensea.fr) is currently not functioning, I do not know why. Please contact me using my school email address: <a href="mailto:Qiong.liu@cyu.fr">Qiong.liu@cyu.fr</a>. Sorry for the inconvenience.😔
+</p>
+
 
 Bio
 ======
