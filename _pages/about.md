@@ -7,32 +7,34 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+
+I am currently an Assistant Professor at [CY Cergy Paris University](https://www.cyu.fr/), where I teach in the Computer Science Department and conduct research within the [ETIS Lab](https://www.etis-lab.fr/) (UMR8051, CYU, ENSEA, CNRS). I am a permanent member of the ICI (Information, Communication, and Imaging) team, focusing on the intersection of AI and next-generation network systems.
 
 <br>
-I am currently serving as an Assistant Professor at [CY Cergy Paris University](https://www.cyu.fr/), a position I have held since September 2024. I am involved with both the Computer Science Department at CYU, where I focus on teaching, and the [ETIS](https://www.etis-lab.fr/) group, a joint research research lab among CYU, ENSEA, and CNRS. Specifically, I am a permanent member of the ICI (Information, Communication, and Imaging) team within ETIS.
-<br> 
-<br> 
 
+## Bio
 
+Before joining [CYU](https://www.cyu.fr/) in 2024, I worked as a Postdoctoral Researcher at [Lincs Lab](https://www.lincs.fr/) under the supervision of Prof. Leonardo Linguaglossa, co-affiliated with the INFRES Department at [Télécom Paris](https://www.telecom-paris.fr/en/school/departments/computer-science-networks), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). I also collaborated with Nokia Bell Labs under the guidance of Dr. Tianzhu Zhang.
 
-Bio
-======
+I obtained my Ph.D. in 2022 from [INSA Rennes](https://www.insa-rennes.fr/ietr-1.html), in the IETR lab (CNRS 6164), supervised by [Prof. Philippe Mary](https://pmary.perso.insa-rennes.fr/) and [Prof. Jean-Yves Baudais](http://jeanyves.baudais.free.fr/).
 
-Before joining [CYU](https://www.cyu.fr/), I worked as a PostDoc at [Lincs Lab](https://www.lincs.fr/) under Prof. Leonardo Linguaglossa, co-affiliated with the Department of Network and Computer Science (INFRES) at [Telecom Paris](https://www.telecom-paris.fr/en/school/departments/computer-science-networks), [the Institute Polytechnique de Paris](https://www.ip-paris.fr/en), from 2022 to 2024. During this time, I also collaborated with the Nokia Bell Lab Research center, guided by senior researcher Dr. Tianzhu Zhang.
+I hold an M.Sc. in Telecommunications from [Xidian University](https://www.xidian.edu.cn/) and a B.Sc. in Electronic Information Science and Technology from [Shandong University](https://www.en.sdu.edu.cn/).
 
+<br>
 
-Prior to that,  I received my Ph.D in 06/2022 at IETR, CNRS 6164 group of [INSA Rennes](https://www.insa-rennes.fr/ietr-1.html) under the supervision of [Prof. Philippe Mary](https://pmary.perso.insa-rennes.fr/) and [Prof. Jean-Yves Baudais](http://jeanyves.baudais.free.fr/). 
+## Research Interests
 
-I obtained my Master of Science (M.Sc.) in Telecommunication from Xidian University(https://www.xidian.edu.cn/), China and my Bachelor of Science (B.Sc.) in Electronic Information Science and Technology from [Shandong University](https://www.en.sdu.edu.cn/), China.
+- AI-driven performance prediction and optimization in softwarized networks  
+- Network function deployment and traffic orchestration under uncertainty  
+- System-level modeling of 6G wireless networks using stochastic geometry  
 
-<br> 
+<br>
 
-Research Interests
-======
-1. Performance diagnoise and prediction for virtualized network systems based on AI technologies
-2. Network function deployment & traffic scheduling with network uncertainty
-3. Stochastic geometry and system-level modeling of 6G wireless networks
+## CV
 
+- [Full Academic CV (PDF)](https://evesiphus.github.io/assets/cv.Qiong_CV_(12).pdf)
+- [Short Résumé (PDF)](https://evesiphus.github.io/assets/cv.Qiong_CV_(13).pdf)
 
 
 
