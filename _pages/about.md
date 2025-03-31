@@ -9,9 +9,8 @@ redirect_from:
 
 <br>
 
-I am currently an Assistant Professor at [CY Cergy Paris University](https://www.cyu.fr/), where I teach in the Computer Science Department and conduct research within the [ETIS Lab](https://www.etis-lab.fr/) (UMR8051, CYU, ENSEA, CNRS). I am a permanent member of the ICI (Information, Communication, and Imaging) team, focusing on the intersection of AI and next-generation network systems.
+I am currently serving as an Assistant Professor at [CY Cergy Paris University](https://www.cyu.fr/), a position I have held since September 2024. I am involved with both the Computer Science Department at CYU, where I focus on teaching, and the [ETIS](https://www.etis-lab.fr/) group, a joint research research lab among CYU, ENSEA, and CNRS. Specifically, I am a permanent member of the ICI (Information, Communication, and Imaging) team within ETIS.
 
-<br>
 
 ## Bio
 
@@ -33,8 +32,8 @@ I hold an M.Sc. in Telecommunications from [Xidian University](https://www.xidia
 
 ## CV
 
-- [Full Academic CV (PDF)](https://evesiphus.github.io/assets/cv/Qiong_CV_(12).pdf)
-- [Short Résumé (PDF)](https://evesiphus.github.io/assets/cv/Qiong_CV_(13).pdf)
+- [Full Academic CV (PDF)](https://evesiphus.github.io/assets/cv/long.pdf)
+- [Short Résumé (PDF)](https://evesiphus.github.io/assets/cv/short.pdf)
 
 
 
