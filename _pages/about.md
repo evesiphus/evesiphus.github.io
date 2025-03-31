@@ -33,8 +33,8 @@ I hold an M.Sc. in Telecommunications from [Xidian University](https://www.xidia
 
 ## CV
 
-- [Full Academic CV (PDF)](https://evesiphus.github.io/assets/cv.Qiong_CV_(12).pdf)
-- [Short Résumé (PDF)](https://evesiphus.github.io/assets/cv.Qiong_CV_(13).pdf)
+- [Full Academic CV (PDF)](https://evesiphus.github.io/assets/cv/Qiong_CV_(12).pdf)
+- [Short Résumé (PDF)](https://evesiphus.github.io/assets/cv/Qiong_CV_(13).pdf)
 
 
 
