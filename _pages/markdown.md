@@ -22,8 +22,4 @@ redirect_from:
   *"Towards MLOps: A Case Study on ML Pipeline Platform"*  
   **Institution:** Télécom Paris,  Institute Polytechnique de Paris, France  
 
-- **2024.04–2024.06** – Hippolyte Verninas (Engineer 3)  
-  *"Design of a PPO-based RL Algorithm"*  
-  **Institution:** Télécom Paris,  Institute Polytechnique de Paris, France  
-
 
