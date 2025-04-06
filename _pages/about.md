@@ -24,9 +24,9 @@ I hold an M.Sc. in Telecommunications from [Xidian University](https://www.xidia
 
 ## Research Interests
 
-- AI-driven performance prediction and optimization in softwarized networks  
-- Network function deployment and traffic orchestration under uncertainty  
-- System-level modeling of 6G wireless networks using stochastic geometry  
+- AI-driven performance optimization in virtualized networks
+- Markov decision process
+- Stochastic geometry  
 
 <br>
 
