@@ -24,9 +24,8 @@ I hold an M.Sc. in Telecommunications from [Xidian University](https://www.xidia
 
 ## Research Interests
 
-- AI-driven performance optimization in virtualized networks
-- Markov decision process
-- Stochastic geometry  
+- AI-driven performance optimization in SDN/NFV systems
+- Stochastic geometry modelling
 
 <br>
 
