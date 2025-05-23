@@ -31,8 +31,8 @@ I hold an M.Sc. in Telecommunications from [Xidian University](https://www.xidia
 
 ## CV
 
-- [Full Academic CV (PDF)](/assets/cv/long.pdf)
-- [Short Résumé (PDF)](/assets/cv/short.pdf)
+- [Full Academic CV (PDF)](/assets/cv)
+- [Short Résumé (PDF)](/assets/cv)
 
 
 
