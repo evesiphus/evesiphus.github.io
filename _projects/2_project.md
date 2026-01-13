@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Stochastic Geometry for NGMA Networks
+title: Large-scale Network Modeling (RSMA/NGMA)
 description: Analytical frameworks for RSMA, NOMA, and OMA under discrete rate adaptation.
 img: assets/img/publication_preview/RSMA.jpg
 importance: 2
-category: Stochastic geometry
+category: Research
 related_publications: true
 ---
 
