@@ -433,9 +433,9 @@ ninja.data = [{
           description: "Analytical frameworks for RSMA, NOMA, and OMA under discrete rate adaptation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-spatiotemporal-modeling-amp-learning-for-dynamic-networks",
+          title: 'Spatiotemporal Modeling &amp;amp; Learning for Dynamic Networks',
+          description: "Ph.D. Research: Integrating Stochastic Geometry, Queueing Theory, and Reinforcement Learning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
