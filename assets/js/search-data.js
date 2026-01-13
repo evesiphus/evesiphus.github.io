@@ -428,8 +428,8 @@ ninja.data = [{
           description: "Predictive models and MLOps platform for high-performance NFV data planes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-stochastic-geometry-for-ngma-networks",
-          title: 'Stochastic Geometry for NGMA Networks',
+            },},{id: "projects-large-scale-network-modeling-rsma-ngma",
+          title: 'Large-scale Network Modeling (RSMA/NGMA)',
           description: "Analytical frameworks for RSMA, NOMA, and OMA under discrete rate adaptation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
