@@ -34,9 +34,9 @@ My research focuses on the intersection of **Artificial Intelligence and Network
 Previously, I was an Assistant Professor at CY Cergy Paris University and a Postdoctoral Researcher at Télécom Paris. I received my Ph.D. from INSA Rennes in 2022.
 
 ### Research Interests
-* **AI for Networked Systems**: MLOps, performance prediction, and anomaly detection.
-* **Softwarized Infrastructures**: NFV, SDN, and high-speed software data planes.
-* **Stochastic Modeling**: Performance analysis using Stochastic Geometry and Queueing Theory.
+* **AI for Networked Systems**: MLOps, Performance Intelligence
+* **Softwarized Infrastructures**: NFV/SDN Architectures, High-Speed Software Data Planes
+* **Stochastic Modeling**: Stochastic Geometry, Queueing Theory
 
 ### Education
 * PostDoc. in Computer Science, Telecom Paris, Institution polytechnique de Paris, France, 2024.
