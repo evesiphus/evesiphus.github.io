@@ -4,7 +4,7 @@ title: AI/ML for High-Speed Softwarized Networks
 description: Predictive models and MLOps platform for high-performance NFV data planes.
 img: assets/img/publication_preview/MLOpsIpm.png
 importance: 1
-category: Softwarized Network
+category: Softwarized Network 
 related_publications: true
 ---
 
