@@ -29,7 +29,7 @@ latest_posts:
 
 I am a **Maîtresse de conférences (Assistant Professor)** at **Sorbonne Université**, within the **LIP6** laboratory (NPA team) in Paris, France. 
 
-My research focuses on the intersection of **Artificial Intelligence and Networked Systems**. I am particularly interested in operationalizing AI in high-speed softwarized infrastructures (NFV/SDN) and developing tractable mathematical models using Stochastic Geometry and Queueing Theory.
+My research focuses on the intersection of **Artificial Intelligence and Networked Systems**. I am particularly interested in operationalizing AI in high-speed softwarized infrastructures and developing tractable mathematical models using Stochastic Geometry and Queueing Theory.
 
 Previously, I was an Assistant Professor at CY Cergy Paris University and a Postdoctoral Researcher at Télécom Paris. I received my Ph.D. from INSA Rennes in 2022.
 
