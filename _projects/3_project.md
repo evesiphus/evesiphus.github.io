@@ -1,81 +1,36 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Spatiotemporal Modeling & Learning for Dynamic Networks
+description: "Ph.D. Research: Integrating Stochastic Geometry, Queueing Theory, and Reinforcement Learning."
+img: assets/img/publication_preview/finite_queue.jpg
 importance: 3
-category: work
+category: Research
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This research, conducted during my Ph.D. at **IETR & CNRS**, addresses the fundamental limits of coverage and stability in large-scale random networks by jointly considering spatial topology and temporal traffic dynamics.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### 1. Tractable Mathematical Modeling
+We developed analytical frameworks to characterize the performance of downlink cellular networks with random link distances. Unlike static models, our work accounts for:
+* **Coverage Probability:** Analyzed under various interference scenarios.
+* **Queueing Performance:** Modeled both **infinite and finite buffer** scenarios to derive packet loss probability and queue delay.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### 2. The $\epsilon$-Stable Region
+A key contribution of this work is the characterization of the **$\epsilon$-stable region**. We defined this as the set of arrival rates where the proportion of unstable queues in the network remains below a threshold $\epsilon$. This provides a new metric for assessing the reliability of large-scale dynamic networks with multi-cell interference.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### 3. Learning-based Transmission Policies
+To optimize network performance under uncertainty, we explored policies based on Channel State Information (CSI) and queue states:
+* **MDP Framework:** Modeled the transmission process as a Markov Decision Process with an infinite horizon.
+* **Reinforcement Learning:** Applied online RL algorithms to minimize transmission costs and buffer delays at base stations, adapting to dynamic interference and traffic fluctuations.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
 
-{% raw %}
+### Technical Highlights
+* **Theoretical Tools:** Stochastic Geometry (Poisson Point Processes), Queueing Theory ($M/G/1$ systems), Markov Decision Processes (MDP).
+* **Optimization:** Reinforcement Learning (Q-Learning/Actor-Critic), Constrained Optimization.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+> Related Publications:
+> * *$\epsilon$-stable region analysis in dynamic downlink cellular networks*, VTC 2022.
+> * *Queue analysis with finite buffer by stochastic geometry*, VTC 2021.
