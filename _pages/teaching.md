@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Activities
+
 
 ### Sorbonne Université
 * **Academic Year 2025-2026**
