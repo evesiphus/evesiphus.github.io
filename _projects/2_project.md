@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Large-scale Modeling of NGMA Networks
-description: "Unified analytical framework for uplink RSMA, NOMA, and OMA under spatial randomness and discrete rate adaptation."
+description: "(2024 - Present) Unified analytical framework for uplink RSMA, NOMA, and OMA under spatial randomness and discrete rate adaptation."
 importance: 2
+img: assets/img/publication_preview/RSMA2.png
 category: Research
 related_publications: false
 ---
