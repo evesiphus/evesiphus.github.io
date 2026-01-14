@@ -425,7 +425,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ai-ml-for-high-speed-softwarized-networks",
           title: 'AI/ML for High-Speed Softwarized Networks',
-          description: "Predictive models and MLOps platform for high-performance NFV data planes.",
+          description: "A framework for non-intrusive performance intelligence and drift-resilient MLOps in NFV data planes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-large-scale-network-modeling-rsma-ngma",
