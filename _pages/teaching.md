@@ -11,16 +11,26 @@ Currently, my teaching focus lies in **Computer Networks** and **Stochastic Mode
 
 ---
 
-### <i class="fa-solid fa-graduation-cap"></i> Current Appointments
 
+
+### <i class="fa-solid fa-graduation-cap"></i> Current Appointments
 #### **Sorbonne Université – LIP6**
 {:.no_toc}
 
-* **Academic Year 2025 – 2026**
-    * **Réseaux (Computer Networks)** | *Master Level*
-        * <small>Focus: Protocol analysis, socket programming, and network architecture. [TD + TP]</small>
-    * **Réseaux (Computer Networks)** | *Licence 3 (Bachelor)*
-        * <small>Focus: OSI model, TCP/IP stack, and local area networks. [TD + TP]</small>
+<div class="card mt-3 p-4 shadow border-primary" style="background-color: #f8faff;">
+  <h4 style="color: #003366;"><strong>Sorbonne Université – LIP6</strong></h4>
+  <h6 class="text-muted mb-3">Academic Year 2025 – 2026</h6>
+  
+  <div class="ml-3">
+    <h5 class="mt-4"><i class="fa-solid fa-network-wired"></i> Réseaux (Computer Networks) <span class="badge badge-info">Master Level</span></h5>
+    <p class="mb-2"><strong>Role:</strong> TD + TP (Tutorials & Labs)</p>
+    <p class="small text-secondary">Focus: Protocol analysis, socket programming, and network architecture. Deep dive into TCP/IP stack performance.</p>
+
+    <h5 class="mt-4"><i class="fa-solid fa-code-branch"></i> Réseaux (Computer Networks) <span class="badge badge-info">Licence 3 (Bachelor)</span></h5>
+    <p class="mb-2"><strong>Role:</strong> TD + TP (Tutorials & Labs)</p>
+    <p class="small text-secondary">Focus: OSI model, network layer protocols, and local area network practical configuration.</p>
+  </div>
+</div>
 
 ---
 
