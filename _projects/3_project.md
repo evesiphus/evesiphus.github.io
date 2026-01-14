@@ -59,6 +59,7 @@ The network dynamics are formulated as a **Markov Decision Process (MDP)** where
 
 ## Related Publications
 
+* **Qiong Liu** and Chung Shue Chen, "Queue-Aware RL Scheduling with Stability Bounds in Large-Scale Cellular Networks," *in Proc. IEEE Wireless Communications and Networking Conference (WCNC)*, 2026. (Accepted)
 * **Qiong Liu**, "Performance Analysis of Dynamic Downlink Cellular Networks," *Ph.D. Dissertation, Sorbonne University / IETR & CNRS*, June 2022.
 * **Qiong Liu**, Jean-Yves Baudais, and Philippe Mary, "The $\epsilon$-stable region analysis in dynamic downlink cellular networks," in *2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring)*, 2022.
 * **Qiong Liu**, Philippe Mary, and Jean-Yves Baudais, "Politiques de transmission basées sur l'apprentissage par renforcement dans les réseaux cellulaires dynamiques et aléatoires," in *Colloque GRETSI*, 2022.
