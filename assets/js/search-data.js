@@ -428,9 +428,9 @@ ninja.data = [{
           description: "A framework for non-intrusive performance intelligence and drift-resilient MLOps in NFV data planes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-large-scale-network-modeling-rsma-ngma",
-          title: 'Large-scale Network Modeling (RSMA/NGMA)',
-          description: "Analytical frameworks for RSMA, NOMA, and OMA under discrete rate adaptation.",
+            },},{id: "projects-large-scale-modeling-of-ngma-networks",
+          title: 'Large-scale Modeling of NGMA Networks',
+          description: "Unified analytical framework for uplink RSMA, NOMA, and OMA under spatial randomness and discrete rate adaptation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-spatiotemporal-modeling-amp-learning-for-dynamic-networks",
