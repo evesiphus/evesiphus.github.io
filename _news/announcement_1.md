@@ -1,7 +1,10 @@
 ---
 layout: post
-date: 2026-01-05 00:00:00-0000
+title: 🚀 Internship Opening: MLOps for High-speed Networks
+date: 2026-01-14
 inline: true
 ---
 
-**Openings:** I am looking for two motivated M2 interns (3-month and 6-month) to work on **AIOps** and **Network Slicing**. Please contact me with your CV if interested! PhD opportunities are possible.
+We are looking for a motivated Master student for an internship on **MLOps in Softwarized Networks**. 
+You can find the detailed [**Internship Proposition (PDF)**](/assets/pdf/Internship_Proposal__NetworkSlicing.pdf) here. 
+Applications are open until March 2026.
