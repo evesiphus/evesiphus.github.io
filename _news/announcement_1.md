@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🚀 Internship Opening: MLOps for High-speed Networks
+title: "🚀 Internship Opening: MLOps for High-speed Networks"
 date: 2026-01-14
 inline: true
 ---
