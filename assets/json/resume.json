@@ -22,17 +22,6 @@
       }
     ]
   },
-  "interests": [
-    {
-      "name": "Research Interests",
-      "icon": "fa-solid fa-microscope",
-      "keywords": [
-        "AI for Networked Systems",
-        "Softwarized Infrastructures (NFV, SDN, MLOps)",
-        "Stochastic Modeling"
-      ]
-    }
-  ],
   "work": [
     {
       "name": "Sorbonne Université – LIP6 (NPA team)",
@@ -40,10 +29,6 @@
       "url": "https://www.lip6.fr",
       "startDate": "2025-09-01",
       "summary": "Operationalizing AI in high-speed softwarized networks; Stochastic geometry-based modeling for NGMA cellular networks.",
-      "highlights": [
-        "Developed MLOps platform for performance prediction",
-        "Collaborated with Nokia Bell Labs and Southeast University"
-      ]
     },
     {
       "name": "ETIS UMR 8051, CY Cergy Paris University",
@@ -59,8 +44,18 @@
       "endDate": "2024-09-01",
       "summary": "Applied AI/ML for high-speed softwarized networks and Cybersecurity.",
       "highlights": [
-        "In-network AI/ML for botnet detection on NVIDIA BlueField-2 DPUs",
         "Best Paper Runner-up Award at IEEE NetSoft 2024"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Scholarly Review Activities",
+      "position": "Reviewer",
+      "summary": "Contributing to the peer-review process for leading journals and conferences in networking and communications.",
+      "highlights": [
+        "Journals: IEEE Communications Magazine, IEEE Transactions on Wireless Communications, ACM TOMPECS",
+        "Conferences: IEEE INFOCOM 2025, IEEE ICC 2024/2025, IEEE Globecom 2023, IEEE SmartGridComm 2024"
       ]
     }
   ],
@@ -88,32 +83,6 @@
       "endDate": "2015-06-30"
     }
   ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Experienced",
-      "keywords": ["Python", "Java", "MATLAB", "C", "CPLEX/Gurobi", "BASH"]
-    },
-    {
-      "name": "Frameworks",
-      "level": "Expert",
-      "keywords": ["PyTorch", "TensorFlow", "Intel DPDK", "Kubernetes", "Kubeflow"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native"
-    },
-    {
-      "language": "English",
-      "fluency": "Proficiency"
-    },
-    {
-      "language": "French",
-      "fluency": "Intermediate"
-    }
-  ],
   "projects": [
     {
       "name": "IONOS-DX",
@@ -122,15 +91,10 @@
       "endDate": "2024-09-01"
     },
     {
-  "name": "Beyond 5G (B5G) Project",
-  "summary": "Supported by the Digital Infrastructure Strategic Sector Committee. Researching next-generation cellular architectures and AI-driven network management.",
-  "highlights": [
-    "Exploring advanced system perspectives for future networks",
-    "Focus on high-speed softwarized network efficiency"
-  ],
-  "startDate": "2023-02-01",
-  "endDate": "2024-09-01",
-  "url": ""
-}
+      "name": "Beyond 5G (B5G) Project",
+      "summary": "Supported by the Digital Infrastructure Strategic Sector Committee. Researching next-generation cellular architectures and AI-driven network management.",
+      "startDate": "2023-02-01",
+      "endDate": "2024-09-01"
+    }
   ]
 }
