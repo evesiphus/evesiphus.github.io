@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-check-out-our-latest-work-on-uplink-rsma-performance-analysis-now-available-on-arxiv-arxiv-2512-20883-we-provide-a-tractable-stochastic-geometry-approach-for-rate-adaptation-in-ngma-networks",
+          title: 'Check out our latest work on Uplink RSMA Performance Analysis now available on...',
           description: "",
           section: "News",},{id: "news-openings-i-am-looking-for-two-motivated-m2-interns-3-month-and-6-month-to-work-on-aiops-and-network-slicing-please-contact-me-with-your-cv-if-interested-phd-opportunities-are-possible",
           title: 'Openings: I am looking for two motivated M2 interns (3-month and 6-month) to...',
