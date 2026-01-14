@@ -36,7 +36,7 @@ nav_order: 7
         </thead>
         <tbody>
           <tr>
-            <th scope="row">2024.09 – Pres.</th>
+            <th scope="row">2024.09 – 2025.06.</th>
             <td>
               <strong>Lin Jianke</strong> (M1, CY Cergy Paris University) <br />
               <em>Towards MLOps - Design and Implementation of a Handwritten Digit Recognition Pipeline using Kubeflow and Kubernetes</em>
@@ -59,7 +59,7 @@ nav_order: 7
             </td>
           </tr>
           <tr>
-            <th scope="row">2025 (Expected)</th>
+            <th scope="row">2025.06-2025.09</th>
             <td>
               <strong>Yuxuan Peng</strong> (M1, CY Cergy Paris University) <br />
               <em>Stochastic Geometry-Guided AI for Network Optimization</em> <br />
@@ -67,7 +67,7 @@ nav_order: 7
             </td>
           </tr>
           <tr>
-            <th scope="row">2025 (Expected)</th>
+            <th scope="row">2025.06-2025.09</th>
             <td>
               <strong>Ornella Sanggang Dchymkou</strong> (M1, CY Cergy Paris University) <br />
               <em>Performance Evaluation of Spacetime Wireless Systems</em> <br />
