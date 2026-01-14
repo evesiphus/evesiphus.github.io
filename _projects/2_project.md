@@ -28,7 +28,7 @@ Our research bridges the gap between theoretical tractability and practical real
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/publication_preview/RSMA2.png" title="Large-scale Network Stochastic Modeling Framework" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> 
 <div class="caption">
     The proposed analytical framework: From large-scale random topology to rate meta-distribution analysis.
 </div>
