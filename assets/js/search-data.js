@@ -435,7 +435,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-spatiotemporal-modeling-amp-learning-for-dynamic-networks",
           title: 'Spatiotemporal Modeling &amp;amp; Learning for Dynamic Networks',
-          description: "Ph.D. Research: Integrating Stochastic Geometry, Queueing Theory, and Reinforcement Learning.",
+          description: "Ph.D. Research: Integrating Stochastic Geometry, Queueing Theory, and Reinforcement Learning for Network Stability.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
