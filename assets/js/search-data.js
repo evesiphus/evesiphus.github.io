@@ -430,7 +430,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-large-scale-modeling-of-ngma-networks",
           title: 'Large-scale Modeling of NGMA Networks',
-          description: "Unified analytical framework for uplink RSMA, NOMA, and OMA under spatial randomness and discrete rate adaptation.",
+          description: "(2024 - Present) Unified analytical framework for uplink RSMA, NOMA, and OMA under spatial randomness and discrete rate adaptation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-spatiotemporal-modeling-amp-learning-for-dynamic-networks",
