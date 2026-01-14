@@ -10,11 +10,11 @@ nav_order: 7
 <div class="projects">
   <h2 class="category">PhD Research Collaboration</h2>
   <div class="container">
-    <p>Deep academic collaboration and joint research supervision on specific analytical modeling tasks.</p>
+    <p>Academic collaboration and joint research supervision on analytical modeling tasks.</p>
     <ul>
       <li>
         <strong>Guo Xinyi</strong> (Southeast University, China) <br />
-        <span style="font-size: 0.95rem; color: var(--global-theme-color);">"Stochastic Geometry-based MCS Adaptation modeling for Cellular Networks"</span> <br />
+        <span style="font-size: 0.95rem; color: var(--global-theme-color);">"Stochastic Geometry-based MCS Adaptation modeling for NGMA Cellular Networks"</span> <br />
         <small>2024.04 – Present · Resulted in 2 joint publications</small>
       </li>
     </ul>
