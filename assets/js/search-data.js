@@ -412,16 +412,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-openings-i-am-looking-for-two-motivated-m2-interns-3-month-and-6-month-to-work-on-aiops-and-network-slicing-please-contact-me-with-your-cv-if-interested-phd-opportunities-are-possible",
           title: 'Openings: I am looking for two motivated M2 interns (3-month and 6-month) to...',
+          description: "",
+          section: "News",},{id: "news-our-paper-fast-collaborative-inference-via-distributed-speculative-decoding-has-been-accepted-by-the-journal-of-information-and-intelligence-2026",
+          title: 'Our paper “Fast Collaborative Inference via Distributed Speculative Decoding” has been accepted by...',
           description: "",
           section: "News",},{id: "projects-ai-ml-for-high-speed-softwarized-networks",
           title: 'AI/ML for High-Speed Softwarized Networks',
