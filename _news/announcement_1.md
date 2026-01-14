@@ -6,5 +6,6 @@ inline: true
 ---
 
 We are looking for a motivated Master student for an internship on **MLOps in Softwarized Networks**. 
-You can find the detailed [**Internship Proposition (PDF)**](/assets/pdf/Internship_Proposal__NetworkSlicing.pdf) here. 
+You can find the detailed <a href="{{ '/assets/pdf/intern2026-slicing.pdf' | relative_url }}" style="color: #2698ba; font-weight: bold;">Internship Proposition (PDF)</a> here. 
+Applications are open until March 2026. 
 Applications are open until March 2026.
