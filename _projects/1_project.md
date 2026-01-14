@@ -5,7 +5,7 @@ description: "A framework for non-intrusive performance intelligence and drift-r
 img: assets/img/publication_preview/MLOpsIpm.png
 importance: 1
 category: Research
-related_publications: false
+related_publications: true
 ---
 
 ## 1. Research Background & Motivation
@@ -14,9 +14,9 @@ related_publications: false
 The shift from monolithic hardware appliances to **Network Function Virtualization (NFV)** and **Software-Defined Networking (SDN)** has been accelerated by high-speed I/O technologies such as **DPDK, eBPF, and netmap**. While these stacks allow commodity off-the-shelf (COTS) servers to reach 10/40/100 Gbps regimes, they introduce intrinsic obstacles. Unlike dedicated circuits, software data planes are susceptible to performance impairments due to the shared nature of the underlying virtual infrastructure.
 
 ### Resource Contention in COTS Servers
-Modern COTS servers rely on multi-socket **NUMA (Non-Uniform Memory Access)** architectures with hierarchical cache designs (L1/L2/L3). Our research focuses on the intricate interactions and contentions within these subsystems:
-* **Cache Contention:** Concurrent VNFs compete for the **Last-level Cache (LLC)**. Even with Intel® CAT, "leaky DMA" issues in technologies like **Intel® DDIO** can saturate the cache.
-* **Memory & I/O Bottlenecks:** Low-level cache misses often lead to memory bandwidth saturation, while cross-node traffic triggers **QPI (QuickPath Interconnect)** contention, severely degrading throughput and latency.
+Modern COTS servers rely on multi-socket NUMA (Non-Uniform Memory Access) architectures with hierarchical cache designs (L1/L2/L3). Our research focuses on the intricate interactions and contentions within these subsystems:
+* **Cache Contention:** Concurrent VNFs compete for the **Last-level Cache (LLC)**. Even with Intel® CAT, "leaky DMA" issues in technologies like Intel® DDIO can saturate the cache.
+* **Memory & I/O Bottlenecks:** Low-level cache misses often lead to memory bandwidth saturation, while cross-node traffic triggers QPI (QuickPath Interconnect) contention, severely degrading throughput and latency.
 
 
 
@@ -26,7 +26,7 @@ Modern COTS servers rely on multi-socket **NUMA (Non-Uniform Memory Access)** ar
 Despite the growth of ML-based analytics, traditional approaches face significant hurdles:
 1. **Instrumentation Overhead:** Direct feature collection (e.g., packet mirroring) incurs a high resource footprint, often damaging both data fidelity and network performance.
 2. **Heterogeneity:** Customizing code for VNFs from different vendors is operationally burdensome.
-3. **Model Decay:** The data-driven nature of ML leads to **model decay** as network systems evolve, making it strenuous to sustain accuracy under continuous **data drift**.
+3. **Model Decay:** The data-driven nature of ML leads to model decay as network systems evolve, making it strenuous to sustain accuracy under continuous data drift.
 
 ---
 
@@ -36,7 +36,11 @@ We propose a novel framework that leverages **low-level hardware features** (e.g
 
 ### Core Components
 * **Non-intrusive Analytics:** Leveraging ubiquitous hardware telemetry to derive actionable insights with negligible overhead.
-* **MLOps Pipeline with DRST:** We implement a **Drift Resilient and Self-Tuning (DRST)** capability. This enables the system to detect when the underlying data distribution shifts and trigger adaptive retraining to maintain long-term accuracy.
+* **MLOps Pipeline with DRST:** We implement a Drift Resilient and Self-Tuning (DRST) capability. This enables the system to detect when the underlying data distribution shifts and trigger adaptive retraining to maintain long-term accuracy.
+
+
+### Performance Diagnosis & Orchestration
+Our framework goes beyond singleton VNFs, analyzing complex **Service Function Chains (SFCs)** and **Directed Acyclic Graphs (DAGs)**. By predicting performance impairments (e.g., micro-bursts, packet drops), the system can proactively trigger VNF redeployment and traffic rerouting.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -45,18 +49,6 @@ We propose a novel framework that leverages **low-level hardware features** (e.g
 </div>
 <div class="caption">
     The end-to-end MLOps pipeline featuring non-intrusive measurement and self-tuning capabilities.
-</div>
-
-### Performance Diagnosis & Orchestration
-Our framework goes beyond singleton VNFs, analyzing complex **Service Function Chains (SFCs)** and **Directed Acyclic Graphs (DAGs)**. By predicting performance impairments (e.g., micro-bursts, packet drops), the system can proactively trigger VNF redeployment and traffic rerouting.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/publication_preview/arch.jpg" title="System Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Architecture for proactive performance diagnosis and resource orchestration in high-speed regimes.
 </div>
 
 ---
