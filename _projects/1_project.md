@@ -43,7 +43,7 @@ We propose a novel framework that leverages **low-level hardware features** (e.g
 Our framework goes beyond singleton VNFs, analyzing complex **Service Function Chains (SFCs)** and **Directed Acyclic Graphs (DAGs)**. By predicting performance impairments (e.g., micro-bursts, packet drops), the system can proactively trigger VNF redeployment and traffic rerouting.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/publication_preview/MLOpsIpm.png" title="MLOps Pipeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
