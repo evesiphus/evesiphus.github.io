@@ -16,11 +16,11 @@ Our research, conducted during the Ph.D. at **IETR & CNRS**, focuses on characte
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/proj3.png" title="MLOps Pipeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/proj3.png" title="Dynamic Large-Scale Cellular Networks" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The end-to-end MLOps pipeline featuring non-intrusive measurement and self-tuning capabilities.
+    Dynamic Cellular Network Stability Analysis visa stochastic Geometry and Reinforcement Learning.
 </div>
 ---
 
