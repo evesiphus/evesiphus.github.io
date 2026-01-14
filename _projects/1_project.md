@@ -1,48 +1,69 @@
 ---
 layout: page
 title: AI/ML for High-Speed Softwarized Networks
-description: Predictive models and MLOps platform for high-performance NFV data planes.
+description: "A framework for non-intrusive performance intelligence and drift-resilient MLOps in NFV data planes."
 img: assets/img/publication_preview/MLOpsIpm.png
 importance: 1
 category: Research
-related_publications: true
+related_publications: false
 ---
 
-This project focuses on operationalizing AI/ML to enhance the performance, diagnosis, and sustainability of modern softwarized networks.
+## 1. Research Background & Motivation
 
-### 1. Non-intrusive Network Measurement
-Instead of traditional packet-level feature collection, we leverage low-level hardware features available in commodity servers (e.g., **CPU cores, multi-level caches, memory subsystems, and PCIe buses**). This approach ensures minimal impact on normal network operations while providing deep insights into system behavior.
+### The Performance Gap in Network Softwarization
+The shift from monolithic hardware appliances to **Network Function Virtualization (NFV)** and **Software-Defined Networking (SDN)** has been accelerated by high-speed I/O technologies such as **DPDK, eBPF, and netmap**. While these stacks allow commodity off-the-shelf (COTS) servers to reach 10/40/100 Gbps regimes, they introduce intrinsic obstacles. Unlike dedicated circuits, software data planes are susceptible to performance impairments due to the shared nature of the underlying virtual infrastructure.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/MLOpsIpm.png" title="Measurement Framework" class="img-fluid rounded z-depth-1" %}
+### Resource Contention in COTS Servers
+Modern COTS servers rely on multi-socket **NUMA (Non-Uniform Memory Access)** architectures with hierarchical cache designs (L1/L2/L3). Our research focuses on the intricate interactions and contentions within these subsystems:
+* **Cache Contention:** Concurrent VNFs compete for the **Last-level Cache (LLC)**. Even with Intel® CAT, "leaky DMA" issues in technologies like **Intel® DDIO** can saturate the cache.
+* **Memory & I/O Bottlenecks:** Low-level cache misses often lead to memory bandwidth saturation, while cross-node traffic triggers **QPI (QuickPath Interconnect)** contention, severely degrading throughput and latency.
+
+
+
+---
+
+## 2. Challenges in Existing Solutions
+Despite the growth of ML-based analytics, traditional approaches face significant hurdles:
+1. **Instrumentation Overhead:** Direct feature collection (e.g., packet mirroring) incurs a high resource footprint, often damaging both data fidelity and network performance.
+2. **Heterogeneity:** Customizing code for VNFs from different vendors is operationally burdensome.
+3. **Model Decay:** The data-driven nature of ML leads to **model decay** as network systems evolve, making it strenuous to sustain accuracy under continuous **data drift**.
+
+---
+
+## 3. Proposed Framework: Non-Intrusive Performance Intelligence
+
+We propose a novel framework that leverages **low-level hardware features** (e.g., CPU pipeline cycles, LLC misses, RAM bandwidth) acquired through standard profiling tools. This approach provides "side-channel" visibility into the runtime state without touching the high-speed data plane.
+
+### Core Components
+* **Non-intrusive Analytics:** Leveraging ubiquitous hardware telemetry to derive actionable insights with negligible overhead.
+* **MLOps Pipeline with DRST:** We implement a **Drift Resilient and Self-Tuning (DRST)** capability. This enables the system to detect when the underlying data distribution shifts and trigger adaptive retraining to maintain long-term accuracy.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/MLOpsIpm.png" title="MLOps Pipeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Overview of the non-intrusive measurement framework and MLOps components.
+    The end-to-end MLOps pipeline featuring non-intrusive measurement and self-tuning capabilities.
 </div>
 
-### 2. Performance Diagnosis & Bottleneck Detection
-We develop advanced predictive models to:
-* **Infer performance impairments** in high-speed NFV data planes.
-* **Deduce associated bottlenecks** (e.g., CPU contention, cache misses).
-* Enable proactive management of virtualized network functions (VNF).
+### Performance Diagnosis & Orchestration
+Our framework goes beyond singleton VNFs, analyzing complex **Service Function Chains (SFCs)** and **Directed Acyclic Graphs (DAGs)**. By predicting performance impairments (e.g., micro-bursts, packet drops), the system can proactively trigger VNF redeployment and traffic rerouting.
 
-### 3. Operationalizing AI & MLOps Platform
-To replace traditional "one-shot" ML models, we developed a continuous, trigger-based system:
-* **MLOps Platform:** Components designed for continuous performance prediction and anomaly detection.
-* **Sustainability:** Reducing overhead and enhancing the long-term reliability of AI models in production environments.
-
----
-
-### Key Technical Aspects
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/publication_preview/arch.jpg" title="System Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    System architecture for proactive VNF redeployment and traffic routing.
+    Architecture for proactive performance diagnosis and resource orchestration in high-speed regimes.
 </div>
 
-> You can find more details in the [Publications](/publications/) section, specifically under the "Operationalizing AI" and "Proactive VNF Redeployment" papers.
+---
+
+## Related Publications
+
+* **Q. Liu**, J. Lin, T. Zhang, L. Linguaglossa, “Non-Intrusive MLOps-Driven Performance Intelligence in Software Data Planes”, *Computer Networks*, 2025 (Under Revision).
+* **Q. Liu**, T. Zhang, M. Hemmatpour, et al, ”Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective”, *IEEE Communications Magazine*, 2024.
+* **Q. Liu**, T. Zhang, L. Linguaglossa, ”Non-invasive Performance Diagnosis of Virtual Network Functions with Limited Knowledge”, *IEEE INFOCOM*, 2024.
+* **Q. Liu**, T. Zhang, W. Cerroni, L. Linguaglossa, ”Proactive VNF Redeployment and Traffic Routing for Modern Telco Networks,” *IEEE NetSoft*, 2024.
