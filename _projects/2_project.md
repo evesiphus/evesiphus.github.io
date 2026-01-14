@@ -24,6 +24,15 @@ While downlink RSMA is well-studied, the uplink poses distinct modeling challeng
 
 Our research bridges the gap between theoretical tractability and practical realism by introducing a unified analytical framework based on Stochastic Geometry (SG).
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/RSMA2.png" title="Large-scale Network Stochastic Modeling Framework" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The proposed analytical framework: From large-scale random topology to rate meta-distribution analysis.
+</div>
+
 ### Bridging Discrete vs. Continuous Rate Models
 Most existing SG-based analyses assume continuous rates based on Shannon’s capacity formula. In contrast, our framework integrates finite Modulation and Coding Scheme (MCS)-based rate adaptation. This approach quantifies the performance based on a finite set of Signal-to-Interference-plus-Noise Ratio (SINR) thresholds, which closely represents practical transmission behavior.
 
