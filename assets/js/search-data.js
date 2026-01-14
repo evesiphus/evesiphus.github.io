@@ -481,6 +481,20 @@ ninja.data = [{
           window.open("mailto:%71%69%6F%6E%67.%6C%69%75@%73%6F%72%62%6F%6E%6E%65-%75%6E%69%76%65%72%73%69%74%65.%66%72", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/evesiphus", "_blank");
+        },
+      },{
+        id: 'social-hal',
+        title: 'HAL',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://cv.hal.science/qiong-liu# your HAL id (https://hal.science/)", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
