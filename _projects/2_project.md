@@ -1,46 +1,59 @@
 ---
 layout: page
-title: Large-scale Network Modeling (RSMA/NGMA)
-description: Analytical frameworks for RSMA, NOMA, and OMA under discrete rate adaptation.
-img: assets/img/publication_preview/RSMA.jpg
+title: Large-scale Modeling of NGMA Networks
+description: "Unified analytical framework for uplink RSMA, NOMA, and OMA under spatial randomness and discrete rate adaptation."
 importance: 2
 category: Research
-related_publications: true
+related_publications: false
 ---
 
-This research introduces a unified analytical framework based on **Stochastic Geometry (SG)** to evaluate Next-Generation Multiple Access (NGMA) techniques, specifically focusing on the practical constraints of **Modulation and Coding Scheme (MCS)** adaptation.
+## 1. Research Background & Motivation
 
-### 1. Unified Analytical Framework
-While traditional models often assume continuous Shannon rates, our work bridges the gap between theory and practice by integrating **discrete rate adaptation**. We model the uplink cellular network with Poisson-distributed Base Stations (BS) and User Equipments (UE), capturing the spatial interference coupling inherent in large-scale deployments.
+### The Shift Toward Next-Generation Multiple Access (NGMA)
+To meet the stringent requirements of 6G—such as massive connectivity and ultra-reliability—**Rate-Splitting Multiple Access (RSMA)** has emerged as a powerful paradigm. By splitting messages and employing **Successive Interference Cancellation (SIC)**, RSMA allows receivers to partially decode interference and partially treat it as noise, providing a flexible balance between interference cancellation and resource allocation.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/RSMA.jpg" title="RSMA Performance Analysis" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Spatial interference modeling and rate adaptation in dense RSMA-enabled networks.
-</div>
-
-### 2. Key Contributions
-* **MCS Adaptation Modeling:** We define the conditional received rate by quantizing the channel quality (SIR) using sets of thresholds. Higher SIR levels trigger higher-order modulation, leading to increased received rates.
-* **Meta Distribution Analysis:** We derive tractable expressions for the **meta distribution** of the conditional received rate, allowing us to quantify not just the average performance, but also the user-specific reliability and fairness (fine-grained statistics).
-* **Performance Metrics:** The framework provides closed-form expressions and Beta approximations for:
-    * Spatially-average Spectral Efficiency (SE).
-    * Variance of the SE.
-    * CRR (Conditional Received Rate) statistics.
-
-### 3. Comparing OMA, NOMA, and RSMA
-Our results show how discrete rate adaptation reshapes interference dynamics. The unified framework generalizes existing NOMA and OMA analyses, providing new insights into interference management and spectral efficiency in dense 6G-ready networks.
+### The Challenge of Uplink Large-Scale Networks
+While downlink RSMA is well-studied, the uplink poses distinct modeling challenges:
+* **Decentralized Management:** Independent transmissions from spatially distributed users lead to complex inter-cell interference coupling.
+* **Channel-Dependent Decoding:** In the uplink, decoding orders are determined by relative channel conditions rather than fixed centralized precoding.
+* **Spatial Randomness:** In dense 6G deployments, the inter-cell interference and spatial coupling become highly intensified, requiring tools beyond deterministic single-cell analysis.
 
 ---
 
-### Technical Highlights
-* **Tools:** Stochastic Geometry, Point Process Theory, Meta Distribution, MATLAB/Python Simulations.
-* **Key Parameters:** UE activity factor, uplink power control coefficients, and SIR thresholds.
+## 2. Methodology: Stochastic Geometry & Meta Distribution
+
+Our research bridges the gap between theoretical tractability and practical realism by introducing a unified analytical framework based on Stochastic Geometry (SG).
+
+### Bridging Discrete vs. Continuous Rate Models
+Most existing SG-based analyses assume continuous rates based on Shannon’s capacity formula. In contrast, our framework integrates finite Modulation and Coding Scheme (MCS)-based rate adaptation. This approach quantifies the performance based on a finite set of Signal-to-Interference-plus-Noise Ratio (SINR) thresholds, which closely represents practical transmission behavior.
+
+### Key Theoretical Contributions
+* **Meta Distribution Analysis:** Beyond spatially-averaged metrics, we derive the **meta distribution** of the **Conditional Received Rate (CRR)**. This allows us to characterize not just the mean rate, but also the **user-specific reliability and fairness** (fine-grained statistics) across the entire network.
+* **Unified Analytical Foundation:** We provide a generalized model that encompasses **OMA, NOMA, and RSMA** as special cases. This enables a systematic benchmarking of different access paradigms under identical spatial configurations.
 
 
 
-> Related Publications:
-> * *Uplink RSMA Performance Analysis with Rate Adaptation*, arXiv:2512.20883.
-> * *Stochastic Geometry-Based MCS Adaption Analysis*, IEEE WCNC 2025.
+---
+
+## 3. Core Insights & Results
+
+The proposed framework provides several new insights into the performance of dense RSMA-enabled networks:
+1.  **Interference Dynamics:** We show how discrete rate adaptation reshapes the interference landscape, revealing that continuous-rate models often overestimate practical performance.
+2.  **Tractable CRR Expressions:** We derived compact, closed-form expressions for the CRR and its higher-order statistics (moments), facilitating rapid system-level evaluation without exhaustive Monte Carlo simulations.
+3.  **Generalization Gains:** Our results demonstrate that RSMA's ability to manage interference flexibly leads to significant gains in spectral efficiency and fairness compared to traditional NOMA and OMA in large-scale uplink deployments.
+
+---
+
+## Technical Highlights
+* **Mathematical Tools:** Stochastic Geometry (Point Process Theory), Meta Distribution, Laplace Transforms, and Beta Approximation.
+* **Key Metrics:** Conditional Received Rate (CRR), Spatially-averaged Spectral Efficiency (SE), and Rate Meta Distribution.
+* **Simulation Environment:** Unified MATLAB/Python frameworks for cross-paradigm (RSMA/NOMA/OMA) benchmarking.
+
+---
+
+## Related Publications
+
+* X. Guo, L. You$^\dagger$, **Q. Liu**$^\dagger$, X. G. Xia, X. Gao, “Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach”, *Under Review (Journal)*, 2025.
+* X. Guo, **Q. Liu**, S. Wang, L. You, X. Gao, “Stochastic Geometry-Based MCS Adaption Analysis in NGMA Networks”, *IEEE WCNC*, 2025.
+
+($^\dagger$ *Corresponding Author*)
