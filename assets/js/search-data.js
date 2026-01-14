@@ -415,7 +415,7 @@ ninja.data = [{
             },},{id: "news-check-out-our-latest-work-on-uplink-rsma-performance-analysis-now-available-on-arxiv-arxiv-2512-20883-we-provide-a-tractable-stochastic-geometry-approach-for-rate-adaptation-in-ngma-networks",
           title: 'Check out our latest work on Uplink RSMA Performance Analysis now available on...',
           description: "",
-          section: "News",},{id: "news-we-are-looking-for-a-motivated-master-student-for-an-internship-on-mlops-in-softwarized-networks-you-can-find-the-detailed-internship-proposition-pdf-here-applications-are-open-until-march-2026",
+          section: "News",},{id: "news-we-are-looking-for-a-motivated-master-student-for-an-internship-on-mlops-in-softwarized-networks-you-can-find-the-detailed-internship-proposition-pdf-here-applications-are-open-until-march-2026-applications-are-open-until-march-2026",
           title: 'We are looking for a motivated Master student for an internship on MLOps...',
           description: "",
           section: "News",},{id: "news-our-paper-fast-collaborative-inference-via-distributed-speculative-decoding-has-been-accepted-by-the-journal-of-information-and-intelligence-2026",
