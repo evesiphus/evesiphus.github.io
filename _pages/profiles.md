@@ -15,9 +15,9 @@ nav_order: 7
 
 The following entries represent research collaboration and informal mentoring; I am not the official PhD supervisor.
 
-- <span style="color: #2698ba; font-weight: 600;">Xinyi Guo</span> *(Apr. 2024–Present)* — Stochastic-Geometry-Based MCS Adaptation Modeling for NGMA Cellular Networks. Southeast University. *In collaboration with Li You.* Two joint publications.
+- <span style="color: #2698ba; font-weight: 600;">Xinyi Guo</span> *(Apr. 2024–Present)* — Stochastic-Geometry-Based MCS Adaptation Modeling for NGMA Cellular Networks. Southeast University. *In collaboration with Li You.*
 
-- <span style="color: #2698ba; font-weight: 600;">Xudong Liu</span> — Spatial Meta-Distributions of Queue Stability in Learning-Controlled Wireless Networks. *In collaboration with Li You.*
+- <span style="color: #2698ba; font-weight: 600;">Xudong Liu</span> *(Apr. 2026–Present)* — Spatial Meta-Distributions of Queue Stability in Learning-Controlled Wireless Networks. *In collaboration with Li You.*
 
 ## Master's Students and Interns
 
