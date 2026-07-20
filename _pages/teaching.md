@@ -29,7 +29,7 @@ My teaching focuses on computer networks, stochastic modeling, and software syst
 
 - **Advanced Networks — Master 2.** Modern network protocols and network performance.
 
-### Télécom Paris (2023–2024)
+### Télécom Paris, Institut Polytechnique de Paris (2023–2024)
 
 - **Access and Scheduling — Engineering Year 3.** MAC-layer protocols and resource-allocation strategies.
 
