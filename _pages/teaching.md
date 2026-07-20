@@ -13,9 +13,11 @@ My teaching focuses on computer networks, stochastic modeling, and software syst
 
 ### Sorbonne Université (2025–2026)
 
-- **Computer Networks — Master level.** Protocol analysis, socket programming, network architecture, and TCP/IP performance.
+- **RTEL — Réseaux de télécommunications (Master 1).** Fundamentals of telecommunication networks, network architecture, and Internet protocols. Co-taught with Serge Fdida and Mai Trang Nguyen.
 
-- **Computer Networks — Licence 3.** OSI model, network-layer protocols, and local area network configuration.
+- **LU3IN033 — Réseaux (Licence 3, S1 2025).** Network architecture, Internet protocols, routing, and local area networks. Co-taught with Bruno Baynat.
+
+- **Projets RES / DIGIT — Network Projects (2025–2026).** Supervision of student projects in computer and telecommunication networks.
 
 ## Previous Teaching
 
