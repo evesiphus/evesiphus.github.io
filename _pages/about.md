@@ -29,9 +29,9 @@ latest_posts:
 
 I am a **Maîtresse de conférences (Assistant Professor)** at **Sorbonne Université**, within the **LIP6** laboratory (NPA team) in Paris, France. 
 
-My research follows two complementary directions. First, I develop stochastic-geometry and queueing models to characterize stability, delay, reliability, and rate performance in large-scale wireless networks. Second, I develop AI/ML methods for monitoring, diagnosis, and resource control in softwarized network infrastructures.
+My research follows two complementary directions. First, I develop **stochastic-geometry and queueing models** to characterize stability, delay, reliability, and rate performance in large-scale wireless networks. Second, I develop **AI/ML methods for monitoring, diagnosis, and resource control** in softwarized network infrastructures.
 
-A central theme of my work is to connect these directions: using analytical models to understand and improve learning-enabled network control. Current applications include 5G/6G wireless networks, network slicing, and high-speed software data planes.
+A central theme of my work is to connect these directions: using **analytical models** to understand and improve **learning-enabled network control**. Current applications include 5G/6G wireless networks, network slicing, and high-speed software data planes.
 
 Previously, I was an Assistant Professor at CY Cergy Paris University and a Postdoctoral Researcher at Télécom Paris. I received my Ph.D. from INSA Rennes in 2022.
 
