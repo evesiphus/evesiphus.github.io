@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses and supervision experience.
+description: Teaching and student supervision experience.
 nav: true
 nav_order: 6
 ---
