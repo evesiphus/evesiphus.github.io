@@ -25,8 +25,6 @@ The following entries represent research collaboration and informal mentoring; I
 
 - <span style="color: #2698ba; font-weight: 600;">Aymane Lachhab</span> *(May–Oct. 2026)* — AI-Enhanced Static Malware Detection. *Co-advised with Francesca Fossati.*
 
-- <span style="color: #2698ba; font-weight: 600;">Mathieu Rouzès-Lalande</span> — Performance Monitoring for Robot-Oriented 5G Core Networks. *Co-advised with Thi-Mai-Trang Nguyen.*
-
 - <span style="color: #2698ba; font-weight: 600;">Jianke Lin</span> *(Sep. 2024–Jun. 2025)* — MLOps Pipeline Design Using Kubeflow and Kubernetes. CY Cergy Paris Université.
 
 - <span style="color: #2698ba; font-weight: 600;">Yuanyi Qiu</span> *(Mar.–Sep. 2024)* — Design and Evaluation of an ML Pipeline Platform. Télécom Paris. *Co-advised with Leonardo Linguaglossa.*
