@@ -13,6 +13,13 @@ nav_order: 2
 - **Large-Scale Modeling for NGMA Networks** (2024–2026): Stochastic modeling of uplink RSMA, NOMA, and OMA with discrete rate adaptation.
 - **Spatio-Temporal Modeling and Learning for Dynamic Networks** (2022–Present): Stochastic geometry, queueing theory, and reinforcement learning for network stability.
 
+## Selected Publications
+
+- Q. Liu, T. Zhang, W. Cerroni, and L. Linguaglossa, “Proactive VNF Redeployment and Traffic Routing for Modern Telco Networks,” *IEEE NetSoft*, 2024. **Best Paper Runner-up Award.**
+- Q. Liu, T. Zhang, and L. Linguaglossa, “Non-Invasive Performance Prediction of High-Speed Softwarized Network Services with Limited Knowledge,” *IEEE INFOCOM*, 2024. **Acceptance rate: 18%.**
+- Q. Liu, C. Wang, and C. Zheng, “Distributed Decisions on Optimal Load Balancing in Loss Networks,” *IEEE WiOpt*, 2023. **Acceptance rate: 27%.**
+- Q. Liu, T. Zhang, M. Hemmatpour, et al., “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2024.
+
 ## Preprints / Submitted
 
 [P3] J. Lin, Q. Liu, and C. Zheng, “AiCS: Branch-Aware Evidence Admission for LLM-Assisted Network Incident Analysis,” submitted to ACM CoNEXT 2026.
@@ -33,13 +40,13 @@ nav_order: 2
 
 [C9] X. Guo, Q. Liu, S. Wang, and L. You, “Stochastic Geometry-Based MCS Adaption Analysis for Uplink Cellular Networks,” *IEEE Wireless Communications and Networking Conference (WCNC)*, pp. 1–6, 2025.
 
-[C8] Q. Liu, T. Zhang, W. Cerroni, and L. Linguaglossa, “Proactive VNF Redeployment and Traffic Routing for Modern Telco Networks,” *IEEE International Conference on Network Softwarization (NetSoft)*, pp. 91–99, 2024.
+[C8] Q. Liu, T. Zhang, W. Cerroni, and L. Linguaglossa, “Proactive VNF Redeployment and Traffic Routing for Modern Telco Networks,” *IEEE International Conference on Network Softwarization (NetSoft)*, pp. 91–99, 2024. **Best Paper Runner-up Award.**
 
-[C7] Q. Liu, T. Zhang, and L. Linguaglossa, “Non-Invasive Performance Prediction of High-Speed Softwarized Network Services with Limited Knowledge,” *IEEE INFOCOM*, pp. 2328–2337, 2024.
+[C7] Q. Liu, T. Zhang, and L. Linguaglossa, “Non-Invasive Performance Prediction of High-Speed Softwarized Network Services with Limited Knowledge,” *IEEE INFOCOM*, pp. 2328–2337, 2024. **Acceptance rate: 18%.**
 
 [C6] C. Wang and Q. Liu, “Load Balancing Game in Loss Communication Networks,” 2023.
 
-[C5] Q. Liu, C. Wang, and C. Zheng, “Distributed Decisions on Optimal Load Balancing in Loss Networks,” *IEEE International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)*, pp. 464–471, 2023.
+[C5] Q. Liu, C. Wang, and C. Zheng, “Distributed Decisions on Optimal Load Balancing in Loss Networks,” *IEEE International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)*, pp. 464–471, 2023. **Acceptance rate: 27%.**
 
 [C4] Q. Liu, J.-Y. Baudais, and P. Mary, “The ε-Stable Region Analysis in Dynamic Downlink Cellular Networks,” *IEEE Vehicular Technology Conference (VTC-Spring)*, pp. 1–6, 2022.
 
