@@ -6,7 +6,7 @@ subtitle: <a href="https://www.lip6.fr/">LIP6</a>, Sorbonne Université. 4 Place
 
 profile:
   align: right
-  image: id.jpg
+  image: id3.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Maîtresse de conférences (Assistant Professor)</p>
