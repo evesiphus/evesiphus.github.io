@@ -1,84 +1,34 @@
 ---
 layout: page
 permalink: /people/
-title: people
-description: Mentoring and Research Collaborations
+title: Mentoring
+description: PhD supervision, research collaborations, and Master's student mentoring.
 nav: true
 nav_order: 7
 ---
 
-<div class="projects">
-  <h2 class="category">PhD Research Collaboration</h2>
-  <div class="container">
-    <p>Academic collaboration and joint research supervision on analytical modeling tasks.</p>
-    <ul>
-      <li>
-        <strong>Guo Xinyi</strong> (Southeast University, China) <br />
-        <span style="font-size: 0.95rem; color: var(--global-theme-color);">"Stochastic Geometry-based MCS Adaptation modeling for NGMA Cellular Networks"</span> <br />
-        <small>2024.04 – Present · Resulted in 2 joint publications</small>
-      </li>
-    </ul>
-  </div>
+## PhD Students
 
-  <br />
+- **Mathieu Rouzès-Lalande** — Efficient Monitoring of Network Slices for 5G and Beyond Networks. Sorbonne Université, 2026–Present. Co-supervised with Anastasios Giovanidis and Thi-Mai-Trang Nguyen.
 
-  <h2 class="category">Master & Engineering Interns</h2>
-  <div class="container">
-    <p>Supervised student research projects and system design for AI/ML pipelines.</p>
-    
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        <thead>
-          <tr>
-            <th scope="col" style="width: 25%">Period</th>
-            <th scope="col">Student & Project</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">2024.09 – 2025.06.</th>
-            <td>
-              <strong>Lin Jianke</strong> (M1, CY Cergy Paris University) <br />
-              <em>Towards MLOps - Design and Implementation of a Handwritten Digit Recognition Pipeline using Kubeflow and Kubernetes</em>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">2024.03 – 2024.09</th>
-            <td>
-              <strong>Qiu Yuanyi</strong> (M2, Télécom Paris) <br />
-              <em>Towards MLOps: a Case study on ML Pipeline Platform</em> <br />
-              <small class="text-muted">Co-advised with L. Linguaglossa</small>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">2024.04 – 2024.06</th>
-            <td>
-              <strong>Hippolyte Verninas</strong> (Eng3, Télécom Paris) <br />
-              <em>Design of a PPO-based RL algorithm</em> <br />
-              <small class="text-muted">Co-advised with L. Linguaglossa</small>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">2025.06-2025.09</th>
-            <td>
-              <strong>Yuxuan Peng</strong> (M1, CY Cergy Paris University) <br />
-              <em>Stochastic Geometry-Guided AI for Network Optimization</em> <br />
-              <small class="text-muted">Co-advised with Ke Feng</small>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">2025.06-2025.09</th>
-            <td>
-              <strong>Ornella Sanggang Dchymkou</strong> (M1, CY Cergy Paris University) <br />
-              <em>Performance Evaluation of Spacetime Wireless Systems</em> <br />
-              <small class="text-muted">Co-advised with Ke Feng</small>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</div>
+## Doctoral Research Collaborations
 
----
-<p style="text-align: center;"><i>To be updated with more collaborators and members.</i></p>
+The following entries represent research collaboration and informal mentoring; I am not the official PhD supervisor.
+
+- **Xinyi Guo** — Stochastic-Geometry-Based MCS Adaptation Modeling for NGMA Cellular Networks. Southeast University, Apr. 2024–Present. In collaboration with Li You. Two joint publications.
+
+- **Xudong Liu** — Spatial Meta-Distributions of Queue Stability in Learning-Controlled Wireless Networks. In collaboration with Li You.
+
+## Master's Students and Interns
+
+- **Georges Salem** — Integrating Symbiotic Agents for Dynamic Metaverse Resource Allocation. Co-advised with Francesca Fossati.
+
+- **Aymane Lachhab** — AI-Enhanced Static Malware Detection. Co-advised with Francesca Fossati.
+
+- **Jianke Lin** — MLOps Pipeline Design Using Kubeflow and Kubernetes. CY Cergy Paris Université, Sep. 2024–Jun. 2025.
+
+- **Yuanyi Qiu** — Design and Evaluation of an ML Pipeline Platform. Télécom Paris, Mar.–Sep. 2024. Co-advised with Leonardo Linguaglossa.
+
+- **Yuxuan Peng** — Stochastic-Geometry-Guided AI for Network Optimization. CY Cergy Paris Université, Jun.–Sep. 2025. Co-advised with Ke Feng.
+
+- **Ornella Sanggang Dchymkou** — Performance Evaluation of Spatio-Temporal Wireless Systems. CY Cergy Paris Université, Jun.–Sep. 2025. Co-advised with Ke Feng.
