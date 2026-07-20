@@ -17,8 +17,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Detailed overview of my courses and pedagogical responsibilities across different institutions.",
+          title: "Teaching",
+          description: "Teaching and student supervision experience.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
