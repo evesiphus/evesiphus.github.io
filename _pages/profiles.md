@@ -21,9 +21,9 @@ The following entries represent research collaboration and informal mentoring; I
 
 ## Master's Students and Interns
 
-- <span style="color: #2698ba; font-weight: 600;">Georges Salem</span> *(May–Oct. 2026)* — Integrating Symbiotic Agents for Dynamic Metaverse Resource Allocation. *Co-advised with Francesca Fossati.*
+- <span style="color: #2698ba; font-weight: 600;">Georges Salem</span> *(May–Oct. 2026)* — Integrating Symbiotic Agents for Dynamic Metaverse Resource Allocation. Sorbonne Université. *Co-advised with Francesca Fossati.*
 
-- <span style="color: #2698ba; font-weight: 600;">Aymane Lachhab</span> *(May–Oct. 2026)* — AI-Enhanced Static Malware Detection. *Co-advised with Francesca Fossati.*
+- <span style="color: #2698ba; font-weight: 600;">Aymane Lachhab</span> *(May–Oct. 2026)* — AI-Enhanced Static Malware Detection. Sorbonne Université. *Co-advised with Francesca Fossati.*
 
 - <span style="color: #2698ba; font-weight: 600;">Jianke Lin</span> *(Sep. 2024–Jun. 2025)* — MLOps Pipeline Design Using Kubeflow and Kubernetes. CY Cergy Paris Université.
 
