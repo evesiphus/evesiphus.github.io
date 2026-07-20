@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://www.lip6.fr/">LIP6</a>, Sorbonne Université. 4 Place Jussieu, 75005 Paris.
 
