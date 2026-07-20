@@ -9,26 +9,26 @@ nav_order: 7
 
 ## PhD Students
 
-- **Mathieu Rouzès-Lalande** — Efficient Monitoring of Network Slices for 5G and Beyond Networks. Sorbonne Université, 2026–Present. Co-supervised with Anastasios Giovanidis and Thi-Mai-Trang Nguyen.
+- <span style="color: var(--global-theme-color); font-weight: 600;">Mathieu Rouzès-Lalande</span> *(2026–Present)* — Efficient Monitoring of Network Slices for 5G and Beyond Networks. Sorbonne Université. *Co-supervised with Anastasios Giovanidis and Thi-Mai-Trang Nguyen.*
 
 ## Doctoral Research Collaborations
 
 The following entries represent research collaboration and informal mentoring; I am not the official PhD supervisor.
 
-- **Xinyi Guo** — Stochastic-Geometry-Based MCS Adaptation Modeling for NGMA Cellular Networks. Southeast University, Apr. 2024–Present. In collaboration with Li You. Two joint publications.
+- <span style="color: var(--global-theme-color); font-weight: 600;">Xinyi Guo</span> *(Apr. 2024–Present)* — Stochastic-Geometry-Based MCS Adaptation Modeling for NGMA Cellular Networks. Southeast University. *In collaboration with Li You.* Two joint publications.
 
-- **Xudong Liu** — Spatial Meta-Distributions of Queue Stability in Learning-Controlled Wireless Networks. In collaboration with Li You.
+- <span style="color: var(--global-theme-color); font-weight: 600;">Xudong Liu</span> — Spatial Meta-Distributions of Queue Stability in Learning-Controlled Wireless Networks. *In collaboration with Li You.*
 
 ## Master's Students and Interns
 
-- **Georges Salem** — Integrating Symbiotic Agents for Dynamic Metaverse Resource Allocation. Co-advised with Francesca Fossati.
+- <span style="color: var(--global-theme-color); font-weight: 600;">Georges Salem</span> — Integrating Symbiotic Agents for Dynamic Metaverse Resource Allocation. *Co-advised with Francesca Fossati.*
 
-- **Aymane Lachhab** — AI-Enhanced Static Malware Detection. Co-advised with Francesca Fossati.
+- <span style="color: var(--global-theme-color); font-weight: 600;">Aymane Lachhab</span> — AI-Enhanced Static Malware Detection. *Co-advised with Francesca Fossati.*
 
-- **Jianke Lin** — MLOps Pipeline Design Using Kubeflow and Kubernetes. CY Cergy Paris Université, Sep. 2024–Jun. 2025.
+- <span style="color: var(--global-theme-color); font-weight: 600;">Jianke Lin</span> *(Sep. 2024–Jun. 2025)* — MLOps Pipeline Design Using Kubeflow and Kubernetes. CY Cergy Paris Université.
 
-- **Yuanyi Qiu** — Design and Evaluation of an ML Pipeline Platform. Télécom Paris, Mar.–Sep. 2024. Co-advised with Leonardo Linguaglossa.
+- <span style="color: var(--global-theme-color); font-weight: 600;">Yuanyi Qiu</span> *(Mar.–Sep. 2024)* — Design and Evaluation of an ML Pipeline Platform. Télécom Paris. *Co-advised with Leonardo Linguaglossa.*
 
-- **Yuxuan Peng** — Stochastic-Geometry-Guided AI for Network Optimization. CY Cergy Paris Université, Jun.–Sep. 2025. Co-advised with Ke Feng.
+- <span style="color: var(--global-theme-color); font-weight: 600;">Yuxuan Peng</span> *(Jun.–Sep. 2025)* — Stochastic-Geometry-Guided AI for Network Optimization. CY Cergy Paris Université. *Co-advised with Ke Feng.*
 
-- **Ornella Sanggang Dchymkou** — Performance Evaluation of Spatio-Temporal Wireless Systems. CY Cergy Paris Université, Jun.–Sep. 2025. Co-advised with Ke Feng.
+- <span style="color: var(--global-theme-color); font-weight: 600;">Ornella Sanggang Dchymkou</span> *(Jun.–Sep. 2025)* — Performance Evaluation of Spatio-Temporal Wireless Systems. CY Cergy Paris Université. *Co-advised with Ke Feng.*
