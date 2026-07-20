@@ -18,13 +18,13 @@ nav_order: 2
 - Q. Liu, T. Zhang, W. Cerroni, and L. Linguaglossa, “Proactive VNF Redeployment and Traffic Routing for Modern Telco Networks,” *IEEE NetSoft*, 2024. **Best Paper Runner-up Award.**
 - Q. Liu, T. Zhang, and L. Linguaglossa, “Non-Invasive Performance Prediction of High-Speed Softwarized Network Services with Limited Knowledge,” *IEEE INFOCOM*, 2024. **Acceptance rate: 18%.**
 - Q. Liu, C. Wang, and C. Zheng, “Distributed Decisions on Optimal Load Balancing in Loss Networks,” *IEEE WiOpt*, 2023. **Acceptance rate: 27%.**
-- Q. Liu, T. Zhang, M. Hemmatpour, et al., “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2024.
+- Q. Liu, T. Zhang, M. Hemmatpour, et al., “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2024. **Impact Factor: 11.2.**
 
 ## Preprints / Submitted
 
 [P3] J. Lin, Q. Liu, and C. Zheng, “AiCS: Branch-Aware Evidence Admission for LLM-Assisted Network Incident Analysis,” submitted to ACM CoNEXT 2026.
 
-[P2] Q. Liu, J. Lin, T. Zhang, and L. Linguaglossa, “DRST: A Non-Intrusive Framework for Performance Analysis in Softwarized Networks,” 2025.
+[P2] Q. Liu, J. Lin, T. Zhang, and L. Linguaglossa, “DRST: A Non-Intrusive Framework for Performance Analysis in Softwarized Networks,” [arXiv:2506.17658](https://arxiv.org/pdf/2506.17658), 2025.
 
 [P1] X. Guo, L. You, Q. Liu, X. Gao, and X.-G. Xia, “Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach,” arXiv preprint [arXiv:2512.20883](https://arxiv.org/abs/2512.20883), 2025.
 
@@ -32,7 +32,7 @@ nav_order: 2
 
 [J2] C. Zheng, K. Zhang, W. Zhang, Q. Liu, and A. A. Tesfay, “Fast Collaborative Inference via Distributed Speculative Decoding,” *Journal of Information and Intelligence*, 2026.
 
-[J1] Q. Liu, T. Zhang, M. Hemmatpour, H. Qiu, D. Zhang, C. S. Chen, M. Mellia, and A. Aghasaryan, “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2024.
+[J1] Q. Liu, T. Zhang, M. Hemmatpour, H. Qiu, D. Zhang, C. S. Chen, M. Mellia, and A. Aghasaryan, “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2024. **Impact Factor: 11.2.**
 
 ## Conferences
 
