@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-My teaching focuses on computer networks, stochastic modeling, and software systems, with an emphasis on connecting theoretical foundations with practical implementation.
+My teaching focuses on computer networks, stochastic modeling, and software systems.
 
 ## Current Teaching
 
