@@ -13,7 +13,7 @@ nav_order: 7
 
 ## Doctoral Research Collaborations
 
-The following entries represent research collaboration and informal mentoring; I am not the official PhD supervisor.
+The following entries represent research collaboration and informal mentoring.
 
 - <span style="color: #2698ba; font-weight: 600;">Xinyi Guo</span> *(Apr. 2024–Present)* — Stochastic-Geometry-Based MCS Adaptation Modeling for NGMA Cellular Networks. Southeast University. *In collaboration with Li You.*
 
