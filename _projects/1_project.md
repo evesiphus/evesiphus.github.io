@@ -56,6 +56,6 @@ Our framework goes beyond singleton VNFs, analyzing complex **Service Function C
 ## Related Publications
 
 * **Q. Liu**, J. Lin, T. Zhang, L. Linguaglossa, “Non-Intrusive MLOps-Driven Performance Intelligence in Software Data Planes”, *Computer Networks*, 2025 (Under Revision).
-* **Q. Liu**, T. Zhang, M. Hemmatpour, et al, ”Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective”, *IEEE Communications Magazine*, 2024.
+* **Q. Liu**, T. Zhang, M. Hemmatpour, et al, ”Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective”, *IEEE Communications Magazine*, 2025.
 * **Q. Liu**, T. Zhang, L. Linguaglossa, ”Non-invasive Performance Diagnosis of Virtual Network Functions with Limited Knowledge”, *IEEE INFOCOM*, 2024.
 * **Q. Liu**, T. Zhang, W. Cerroni, L. Linguaglossa, ”Proactive VNF Redeployment and Traffic Routing for Modern Telco Networks,” *IEEE NetSoft*, 2024.

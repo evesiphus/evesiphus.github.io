@@ -17,7 +17,7 @@ nav_order: 2
 
 - Q. Liu, T. Zhang, W. Cerroni, and L. Linguaglossa, “Proactive VNF Redeployment and Traffic Routing for Modern Telco Networks,” *IEEE NetSoft*, 2024. **Best Paper Runner-up Award.**
 - Q. Liu, T. Zhang, and L. Linguaglossa, “Non-Invasive Performance Prediction of High-Speed Softwarized Network Services with Limited Knowledge,” *IEEE INFOCOM*, 2024. **Acceptance rate: 18%.**
-- Q. Liu, T. Zhang, M. Hemmatpour, et al., “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2024. **Impact Factor: 11.2.**
+- Q. Liu, T. Zhang, M. Hemmatpour, et al., “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2025. **Impact Factor: 11.2.**
 
 ## Preprints / Submitted
 
@@ -31,7 +31,7 @@ nav_order: 2
 
 [J2] C. Zheng, K. Zhang, W. Zhang, Q. Liu, and A. A. Tesfay, “Fast Collaborative Inference via Distributed Speculative Decoding,” *Journal of Information and Intelligence*, 2026.
 
-[J1] Q. Liu, T. Zhang, M. Hemmatpour, H. Qiu, D. Zhang, C. S. Chen, M. Mellia, and A. Aghasaryan, “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2024. **Impact Factor: 11.2.**
+[J1] Q. Liu, T. Zhang, M. Hemmatpour, H. Qiu, D. Zhang, C. S. Chen, M. Mellia, and A. Aghasaryan, “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2025. **Impact Factor: 11.2.**
 
 ## Conferences
 
