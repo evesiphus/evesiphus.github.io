@@ -25,9 +25,9 @@ nav_order: 2
 
 [P2] Q. Liu, J. Lin, T. Zhang, and L. Linguaglossa, “DRST: A Non-Intrusive Framework for Performance Analysis in Softwarized Networks,” [arXiv:2506.17658](https://arxiv.org/pdf/2506.17658), 2025.
 
-[P1] X. Guo, L. You, Q. Liu, X. Gao, and X.-G. Xia, “Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach,” arXiv preprint [arXiv:2512.20883](https://arxiv.org/abs/2512.20883), 2025.
-
 ## Journals
+
+[J3] X. Guo, L. You, Q. Liu, X. Gao, and X.-G. Xia, “Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach,” *IEEE Transactions on Wireless Communications*, 2026.
 
 [J2] C. Zheng, K. Zhang, W. Zhang, Q. Liu, and A. A. Tesfay, “Fast Collaborative Inference via Distributed Speculative Decoding,” *Journal of Information and Intelligence*, 2026.
 
