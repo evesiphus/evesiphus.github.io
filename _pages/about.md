@@ -9,7 +9,7 @@ profile:
   image: id.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Tenured Assistant Professor</p>
+    <p>Maîtresse de conférences (Tenured Assistant Professor)</p>
     <p>Sorbonne Université – LIP6</p>
     <p>Paris, France</p>
 
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **Tenured Assistant Professor** at **Sorbonne Université**, within the **LIP6** laboratory (NPA team) in Paris, France.
+I am a **Maîtresse de conférences (Tenured Assistant Professor)** at **Sorbonne Université**, within the **LIP6** laboratory (NPA team) in Paris, France.
 
 My research follows two complementary directions. First, I develop stochastic-geometry and queueing models to characterize stability, delay, reliability, and rate performance in large-scale wireless networks. Second, I develop AI/ML methods for monitoring, diagnosis, and resource control in softwarized network infrastructures.
 

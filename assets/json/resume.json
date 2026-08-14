@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Qiong LIU",
-    "label": "Tenured Assistant Professor",
+    "label": "Maîtresse de conférences (Tenured Assistant Professor)",
     "image": "",
     "email": "qiong.liu@lip6.fr",
     "phone": "",
     "url": "https://evesiphus.github.io",
-    "summary": "Tenured Assistant Professor at Sorbonne Université – LIP6. My research focuses on AI for Networked Systems, Softwarized Infrastructures (NFV, SDN, MLOps), and Stochastic Modeling.",
+    "summary": "Maîtresse de conférences (Tenured Assistant Professor) at Sorbonne Université – LIP6. My research focuses on AI for Networked Systems, Softwarized Infrastructures (NFV, SDN, MLOps), and Stochastic Modeling.",
     "location": {
       "address": "4 Place Jussieu",
       "postalCode": "75005",
@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Sorbonne Université – LIP6 (NPA team)",
-      "position": "Tenured Assistant Professor",
+      "position": "Maîtresse de conférences (Tenured Assistant Professor)",
       "url": "https://www.lip6.fr",
       "startDate": "2025-09-01",
       "summary": "Operationalizing AI in high-speed softwarized networks; Stochastic geometry-based modeling for NGMA cellular networks."
