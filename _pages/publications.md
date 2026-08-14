@@ -15,6 +15,7 @@ nav_order: 2
 
 ## Selected Publications
 
+- X. Guo, L. You, Q. Liu, X. Gao, and X.-G. Xia, “Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach,” *IEEE Transactions on Wireless Communications*, 2026.
 - Q. Liu, T. Zhang, W. Cerroni, and L. Linguaglossa, “Proactive VNF Redeployment and Traffic Routing for Modern Telco Networks,” *IEEE NetSoft*, 2024. **Best Paper Runner-up Award.**
 - Q. Liu, T. Zhang, and L. Linguaglossa, “Non-Invasive Performance Prediction of High-Speed Softwarized Network Services with Limited Knowledge,” *IEEE INFOCOM*, 2024. **Acceptance rate: 18%.**
 - Q. Liu, T. Zhang, M. Hemmatpour, et al., “Operationalizing AI/ML in Future Networks: A Bird’s Eye View from the System Perspective,” *IEEE Communications Magazine*, 2025. **Impact Factor: 11.2.**
