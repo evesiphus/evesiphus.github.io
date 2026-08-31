@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-12-20 00:00:00-0000
+date: 2026-08-31
 inline: true
 ---
 
-Check out our latest work on **Uplink RSMA Performance Analysis** now available on arXiv ([arXiv:2512.20883](https://arxiv.org/abs/2512.20883))! We provide a tractable stochastic geometry approach for rate adaptation in NGMA networks.
+🎉 Our paper, **"Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach,"** has been accepted for publication in **IEEE Transactions on Wireless Communications** and is now available in Early Access! This work provides a tractable stochastic geometry framework for rate adaptation in NGMA networks. The preprint is available on [arXiv](https://arxiv.org/abs/2512.20883).
