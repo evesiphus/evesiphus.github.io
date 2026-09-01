@@ -17,10 +17,10 @@ nav_order: 8
 
 ### Journals
 
-- *IEEE Communications Magazine*, 2026.
-- *IEEE Internet of Things Journal*, 2026.
-- *IEEE Transactions on Wireless Communications*, 2022.
-- *ACM Transactions on Modeling and Performance Evaluation of Computing Systems*, 2022.
+- *IEEE Communications Magazine*.
+- *IEEE Internet of Things Journal*.
+- *IEEE Transactions on Wireless Communications*.
+- *ACM Transactions on Modeling and Performance Evaluation of Computing Systems*.
 
 ### Conferences
 
