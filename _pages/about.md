@@ -35,10 +35,13 @@ A central theme of my work is to connect these directions: using analytical mode
 
 Previously, I was an Assistant Professor at CY Cergy Paris University and a Postdoctoral Researcher at Télécom Paris. I received my Ph.D. from INSA Rennes in 2022.
 
-### Research Interests
-* **AI for Networked Systems**: MLOps, Performance Intelligence
-* **Softwarized Infrastructures**: NFV/SDN Architectures, High-Speed Software Data Planes
-* **Stochastic Modeling**: Stochastic Geometry, Queueing Theory
+### Research Areas
+
+- **AI-Native Network Management** (2022–Present): Performance intelligence, root cause analysis, and autonomous control for softwarized networks.
+
+- **Stochastic Modeling of Wireless Networks** (2024–Present): Stochastic geometry, interference analysis, and spatio-temporal network dynamics.
+
+- **Distributed Learning and Control** (Emerging): Multi-agent reinforcement learning, decentralized decision-making, and stability-aware resource allocation in dynamic wireless networks.
 
 ### Education
 * PostDoc. in Computer Science, Telecom Paris, Institution polytechnique de Paris, France, 2024.

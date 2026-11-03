@@ -9,9 +9,9 @@ nav_order: 2
 
 ## Research Areas
 
-- **AI/ML for High-Speed Softwarized Networks** (2022–Present): Non-intrusive performance intelligence and drift-resilient MLOps for NFV data planes.
-- **Large-Scale Modeling for NGMA Networks** (2024–2026): Stochastic modeling of uplink RSMA, NOMA, and OMA with discrete rate adaptation.
-- **Spatio-Temporal Modeling and Learning for Dynamic Networks** (2022–Present): Stochastic geometry, queueing theory, and reinforcement learning for network stability.
+- **AI-Native Network Management** (2022–Present): Performance intelligence, root cause analysis, and autonomous control for softwarized networks.
+- **Stochastic Modeling of Wireless Networks** (2024–Present): Stochastic geometry, interference analysis, and spatio-temporal network dynamics.
+- **Distributed Learning and Control** (Emerging): Multi-agent reinforcement learning, decentralized decision-making, and stability-aware resource allocation in dynamic wireless networks.
 
 ## Selected Publications
 
@@ -22,13 +22,17 @@ nav_order: 2
 
 ## Preprints / Submitted
 
+[P5] A. Lachhaba, F. Fossati, and Q. Liu, “PEStatic: A Bias-Aware Benchmark for Static Windows Malware Analysis,” submitted to *Computers & Security*.
+
+[P4] X. Liu, X. Guo, L. You, and Q. Liu, “Queue-Aware Meta Distribution Analysis of Cellular Networks with Rate Adaptation,” submitted to *IEEE Vehicular Technology Conference (VTC)*, 2027.
+
 [P3] J. Lin, Q. Liu, and C. Zheng, “AiCS: Branch-Aware Evidence Admission for LLM-Assisted Network Incident Analysis,” submitted to ACM CoNEXT 2026.
 
 [P2] Q. Liu, J. Lin, T. Zhang, and L. Linguaglossa, “DRST: A Non-Intrusive Framework for Performance Analysis in Softwarized Networks,” [arXiv:2506.17658](https://arxiv.org/pdf/2506.17658), 2025.
 
 ## Journals
 
-[J3] X. Guo, L. You, Q. Liu, X. Gao, and X.-G. Xia, “Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach,” *IEEE Transactions on Wireless Communications*, 2026.
+[J3] X. Guo, L. You, Q. Liu, X. Gao, and X.-G. Xia, “Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach,” *IEEE Transactions on Wireless Communications*, 2026. **Impact Factor: 10.3.**
 
 [J2] C. Zheng, K. Zhang, W. Zhang, Q. Liu, and A. A. Tesfay, “Fast Collaborative Inference via Distributed Speculative Decoding,” *Journal of Information and Intelligence*, 2026.
 
